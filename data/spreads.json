@@ -1,0 +1,781 @@
+{
+  "spreads": [
+    {
+      "id": "single",
+      "name": "Single Card",
+      "korean_name": "한 장 뽑기",
+      "num_cards": 1,
+      "description": "A single card drawn for a quick answer, daily guidance, or simple yes/no questions.",
+      "best_for": [
+        "daily guidance",
+        "quick answer",
+        "yes/no",
+        "daily card",
+        "meditation focus"
+      ],
+      "question_keywords": [
+        "오늘",
+        "today",
+        "간단",
+        "하나",
+        "빠른",
+        "yes",
+        "no",
+        "예스",
+        "노"
+      ],
+      "positions": [
+        {
+          "id": 1,
+          "name": "The Message",
+          "korean_name": "메시지",
+          "description": "The core message or answer to your question."
+        }
+      ]
+    },
+    {
+      "id": "three_card_ppf",
+      "name": "Three Card – Past / Present / Future",
+      "korean_name": "3장 - 과거 / 현재 / 미래",
+      "num_cards": 3,
+      "description": "The classic three-card spread revealing the timeline of a situation.",
+      "best_for": [
+        "general reading",
+        "life overview",
+        "situational",
+        "general question",
+        "timeline"
+      ],
+      "question_keywords": [
+        "일반",
+        "전반적",
+        "지금",
+        "앞으로",
+        "흐름",
+        "overview",
+        "general",
+        "future"
+      ],
+      "positions": [
+        {
+          "id": 1,
+          "name": "Past",
+          "korean_name": "과거",
+          "description": "Events, influences, or energies from the past shaping the present."
+        },
+        {
+          "id": 2,
+          "name": "Present",
+          "korean_name": "현재",
+          "description": "The current state of affairs, what is happening right now."
+        },
+        {
+          "id": 3,
+          "name": "Future",
+          "korean_name": "미래",
+          "description": "The likely outcome or direction if things continue on the current path."
+        }
+      ]
+    },
+    {
+      "id": "three_card_situation",
+      "name": "Three Card – Situation / Action / Outcome",
+      "korean_name": "3장 - 상황 / 행동 / 결과",
+      "num_cards": 3,
+      "description": "Practical spread for decisions and action-oriented questions.",
+      "best_for": [
+        "decision making",
+        "action needed",
+        "what should I do",
+        "next steps"
+      ],
+      "question_keywords": [
+        "어떻게",
+        "해야",
+        "결정",
+        "선택",
+        "행동",
+        "what should",
+        "how to",
+        "decision",
+        "choice",
+        "action"
+      ],
+      "positions": [
+        {
+          "id": 1,
+          "name": "Situation",
+          "korean_name": "현재 상황",
+          "description": "The current situation or challenge you face."
+        },
+        {
+          "id": 2,
+          "name": "Action",
+          "korean_name": "취할 행동",
+          "description": "The recommended action or approach to take."
+        },
+        {
+          "id": 3,
+          "name": "Outcome",
+          "korean_name": "결과",
+          "description": "The likely outcome if you take the recommended action."
+        }
+      ]
+    },
+    {
+      "id": "love_relationship",
+      "name": "Love & Relationship Spread",
+      "korean_name": "사랑 & 관계 배열",
+      "num_cards": 5,
+      "description": "A five-card spread exploring the dynamics, challenges, and potential of a romantic relationship.",
+      "best_for": [
+        "love",
+        "romance",
+        "relationship",
+        "partner",
+        "dating",
+        "marriage",
+        "breakup",
+        "connection"
+      ],
+      "question_keywords": [
+        "사랑",
+        "연애",
+        "관계",
+        "남자친구",
+        "여자친구",
+        "결혼",
+        "이별",
+        "썸",
+        "짝사랑",
+        "love",
+        "relationship",
+        "partner",
+        "romance",
+        "dating",
+        "crush",
+        "boyfriend",
+        "girlfriend",
+        "marriage",
+        "breakup"
+      ],
+      "positions": [
+        {
+          "id": 1,
+          "name": "You",
+          "korean_name": "나",
+          "description": "Your current energy, feelings, and role in this relationship."
+        },
+        {
+          "id": 2,
+          "name": "Your Partner / Person of Interest",
+          "korean_name": "상대방",
+          "description": "Their energy, feelings, and perspective in this relationship."
+        },
+        {
+          "id": 3,
+          "name": "The Connection",
+          "korean_name": "두 사람의 연결",
+          "description": "The nature and quality of the connection between you."
+        },
+        {
+          "id": 4,
+          "name": "The Challenge",
+          "korean_name": "극복해야 할 과제",
+          "description": "The main obstacle or challenge this relationship faces."
+        },
+        {
+          "id": 5,
+          "name": "Potential / Outcome",
+          "korean_name": "잠재력 / 결과",
+          "description": "Where this relationship is heading and its highest potential."
+        }
+      ]
+    },
+    {
+      "id": "career_work",
+      "name": "Career & Work Spread",
+      "korean_name": "커리어 & 직업 배열",
+      "num_cards": 5,
+      "description": "A five-card spread examining your professional life, challenges, and direction.",
+      "best_for": [
+        "career",
+        "job",
+        "work",
+        "business",
+        "profession",
+        "promotion",
+        "job change",
+        "entrepreneurship"
+      ],
+      "question_keywords": [
+        "직업",
+        "직장",
+        "커리어",
+        "일",
+        "취업",
+        "이직",
+        "승진",
+        "사업",
+        "창업",
+        "career",
+        "job",
+        "work",
+        "business",
+        "promotion",
+        "employment",
+        "profession",
+        "entrepreneur"
+      ],
+      "positions": [
+        {
+          "id": 1,
+          "name": "Current Situation",
+          "korean_name": "현재 직업 상황",
+          "description": "Your current professional situation and energy."
+        },
+        {
+          "id": 2,
+          "name": "Your Strengths",
+          "korean_name": "나의 강점",
+          "description": "What you bring to the table — your skills and assets."
+        },
+        {
+          "id": 3,
+          "name": "The Challenge",
+          "korean_name": "도전 과제",
+          "description": "The main obstacle or challenge in your professional path."
+        },
+        {
+          "id": 4,
+          "name": "Recommended Action",
+          "korean_name": "권장 행동",
+          "description": "What action would best serve your career goals."
+        },
+        {
+          "id": 5,
+          "name": "Outcome / Direction",
+          "korean_name": "결과 / 방향",
+          "description": "Where your career is heading and the likely outcome."
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "Finance & Money Spread",
+      "korean_name": "재정 & 돈 배열",
+      "num_cards": 4,
+      "description": "A four-card spread examining your financial situation, blocks, and opportunities.",
+      "best_for": [
+        "money",
+        "finance",
+        "financial",
+        "wealth",
+        "debt",
+        "investment",
+        "spending",
+        "saving"
+      ],
+      "question_keywords": [
+        "돈",
+        "재정",
+        "재물",
+        "투자",
+        "저축",
+        "빚",
+        "부채",
+        "월급",
+        "금전",
+        "경제",
+        "수입",
+        "지출",
+        "통장",
+        "money",
+        "finance",
+        "financial",
+        "wealth",
+        "debt",
+        "investment",
+        "savings",
+        "income"
+      ],
+      "positions": [
+        {
+          "id": 1,
+          "name": "Current Financial State",
+          "korean_name": "현재 재정 상태",
+          "description": "Your current financial energy and situation."
+        },
+        {
+          "id": 2,
+          "name": "What Helps",
+          "korean_name": "도움이 되는 것",
+          "description": "Factors, attitudes, or actions supporting financial growth."
+        },
+        {
+          "id": 3,
+          "name": "What Blocks",
+          "korean_name": "방해가 되는 것",
+          "description": "What is blocking your financial abundance."
+        },
+        {
+          "id": 4,
+          "name": "Path to Abundance",
+          "korean_name": "풍요로 가는 길",
+          "description": "The recommended path toward financial wellbeing."
+        }
+      ]
+    },
+    {
+      "id": "health_wellness",
+      "name": "Health & Wellness Spread",
+      "korean_name": "건강 & 웰니스 배열",
+      "num_cards": 4,
+      "description": "A four-card spread addressing physical, emotional, and spiritual health.",
+      "best_for": [
+        "health",
+        "wellness",
+        "healing",
+        "illness",
+        "recovery",
+        "mental health",
+        "body",
+        "energy"
+      ],
+      "question_keywords": [
+        "건강",
+        "병",
+        "몸",
+        "치유",
+        "회복",
+        "정신",
+        "health",
+        "wellness",
+        "healing",
+        "illness",
+        "recovery",
+        "mental",
+        "body",
+        "energy"
+      ],
+      "positions": [
+        {
+          "id": 1,
+          "name": "Your Body's Message",
+          "korean_name": "몸의 메시지",
+          "description": "What your body is communicating to you right now."
+        },
+        {
+          "id": 2,
+          "name": "What Drains Your Energy",
+          "korean_name": "에너지를 소모시키는 것",
+          "description": "What is depleting your vital energy."
+        },
+        {
+          "id": 3,
+          "name": "What Supports Healing",
+          "korean_name": "치유를 돕는 것",
+          "description": "What nourishes and supports your healing."
+        },
+        {
+          "id": 4,
+          "name": "Path to Wholeness",
+          "korean_name": "온전함으로 가는 길",
+          "description": "Your path toward complete health and vitality."
+        }
+      ]
+    },
+    {
+      "id": "celtic_cross",
+      "name": "Celtic Cross",
+      "korean_name": "켈틱 크로스",
+      "num_cards": 10,
+      "description": "The most comprehensive tarot spread, providing a deep, multi-dimensional view of a situation.",
+      "best_for": [
+        "deep reading",
+        "complex situation",
+        "comprehensive",
+        "life question",
+        "major decision",
+        "detailed analysis"
+      ],
+      "question_keywords": [
+        "켈틱",
+        "celtic",
+        "10장",
+        "깊은",
+        "자세한",
+        "복잡한",
+        "중요한",
+        "큰",
+        "포괄적",
+        "comprehensive",
+        "deep",
+        "detailed",
+        "major",
+        "complex",
+        "life"
+      ],
+      "positions": [
+        {
+          "id": 1,
+          "name": "The Heart of the Matter",
+          "korean_name": "핵심 상황",
+          "description": "The central issue or situation you are dealing with."
+        },
+        {
+          "id": 2,
+          "name": "Crossing Card (Challenge)",
+          "korean_name": "가로막는 것 (도전)",
+          "description": "What crosses or challenges the central issue — helping or hindering."
+        },
+        {
+          "id": 3,
+          "name": "Conscious Thoughts",
+          "korean_name": "의식적 생각",
+          "description": "What you are consciously thinking about or focusing on."
+        },
+        {
+          "id": 4,
+          "name": "Subconscious Feelings",
+          "korean_name": "잠재의식적 감정",
+          "description": "What is hidden in your subconscious, underlying the situation."
+        },
+        {
+          "id": 5,
+          "name": "Past",
+          "korean_name": "과거",
+          "description": "Recent events or energies passing out of the situation."
+        },
+        {
+          "id": 6,
+          "name": "Immediate Future",
+          "korean_name": "가까운 미래",
+          "description": "What is coming in the near future."
+        },
+        {
+          "id": 7,
+          "name": "Your Approach / Attitude",
+          "korean_name": "나의 태도 / 접근 방식",
+          "description": "How you are approaching the situation and your own role."
+        },
+        {
+          "id": 8,
+          "name": "External Influences",
+          "korean_name": "외부 영향",
+          "description": "Environmental or other people's influence on the situation."
+        },
+        {
+          "id": 9,
+          "name": "Hopes and Fears",
+          "korean_name": "희망과 두려움",
+          "description": "Your deepest hopes and fears around this situation."
+        },
+        {
+          "id": 10,
+          "name": "Final Outcome",
+          "korean_name": "최종 결과",
+          "description": "The most likely outcome based on current energies."
+        }
+      ]
+    },
+    {
+      "id": "self_growth",
+      "name": "Self-Growth & Spiritual Spread",
+      "korean_name": "자기성장 & 영적 배열",
+      "num_cards": 5,
+      "description": "A five-card spread for personal development, spiritual questions, and self-understanding.",
+      "best_for": [
+        "self-growth",
+        "spiritual",
+        "personal development",
+        "purpose",
+        "soul",
+        "healing",
+        "mindfulness",
+        "inner work"
+      ],
+      "question_keywords": [
+        "성장",
+        "자기",
+        "영적",
+        "목적",
+        "영혼",
+        "내면",
+        "명상",
+        "self",
+        "growth",
+        "spiritual",
+        "purpose",
+        "soul",
+        "inner",
+        "healing",
+        "meditation",
+        "path",
+        "meaning"
+      ],
+      "positions": [
+        {
+          "id": 1,
+          "name": "Who You Are Now",
+          "korean_name": "지금의 나",
+          "description": "Your current spiritual and personal state."
+        },
+        {
+          "id": 2,
+          "name": "What Holds You Back",
+          "korean_name": "나를 막는 것",
+          "description": "The shadow or pattern preventing growth."
+        },
+        {
+          "id": 3,
+          "name": "The Lesson",
+          "korean_name": "배워야 할 교훈",
+          "description": "The key lesson your soul is working on in this phase."
+        },
+        {
+          "id": 4,
+          "name": "What Nourishes Your Soul",
+          "korean_name": "영혼을 키우는 것",
+          "description": "What truly feeds and nourishes your authentic self."
+        },
+        {
+          "id": 5,
+          "name": "Your Path Forward",
+          "korean_name": "앞으로 나아갈 길",
+          "description": "The direction your soul is calling you toward."
+        }
+      ]
+    },
+    {
+      "id": "yes_no",
+      "name": "Yes / No Spread",
+      "korean_name": "예 / 아니오 배열",
+      "num_cards": 3,
+      "description": "Three cards drawn to gain clarity on a yes/no question through pattern reading.",
+      "best_for": ["yes/no", "binary question", "quick decision", "should I"],
+      "question_keywords": [
+        "할까요",
+        "될까요",
+        "맞나요",
+        "yes",
+        "no",
+        "should i",
+        "will i",
+        "is it"
+      ],
+      "positions": [
+        {
+          "id": 1,
+          "name": "The Situation",
+          "korean_name": "상황",
+          "description": "The current energy around your question."
+        },
+        {
+          "id": 2,
+          "name": "The Influence",
+          "korean_name": "영향",
+          "description": "The key factor influencing the outcome."
+        },
+        {
+          "id": 3,
+          "name": "The Answer",
+          "korean_name": "답",
+          "description": "The card pointing toward yes or no, and why."
+        }
+      ]
+    },
+    {
+      "id": "binary_choice",
+      "name": "Binary Choice Spread",
+      "korean_name": "양자택일 배열",
+      "num_cards": 6,
+      "description": "Compares two paths, options, or decisions side by side. Best when the user explicitly weighs two options (A vs B, stay vs leave, job A vs job B).",
+      "best_for": [
+        "two options",
+        "A or B decision",
+        "stay or leave",
+        "comparing paths",
+        "binary decision"
+      ],
+      "positions": [
+        {
+          "id": 1,
+          "name": "Option A — Core Energy",
+          "korean_name": "선택지 A — 핵심 에너지",
+          "description": "The essential nature and energy of the first option."
+        },
+        {
+          "id": 2,
+          "name": "Option A — What It Brings",
+          "korean_name": "선택지 A — 가져올 것",
+          "description": "What choosing Option A will bring into your life."
+        },
+        {
+          "id": 3,
+          "name": "Option A — Challenge",
+          "korean_name": "선택지 A — 도전",
+          "description": "The difficulty or risk that comes with Option A."
+        },
+        {
+          "id": 4,
+          "name": "Option B — Core Energy",
+          "korean_name": "선택지 B — 핵심 에너지",
+          "description": "The essential nature and energy of the second option."
+        },
+        {
+          "id": 5,
+          "name": "Option B — What It Brings",
+          "korean_name": "선택지 B — 가져올 것",
+          "description": "What choosing Option B will bring into your life."
+        },
+        {
+          "id": 6,
+          "name": "Option B — Challenge",
+          "korean_name": "선택지 B — 도전",
+          "description": "The difficulty or risk that comes with Option B."
+        }
+      ]
+    },
+    {
+      "id": "horseshoe",
+      "name": "Horseshoe Spread",
+      "korean_name": "말굽 배열",
+      "num_cards": 7,
+      "description": "A seven-card spread covering past, present, hidden factors, obstacles, external environment, recommended approach, and final outcome. Ideal for multi-layered situations needing a full picture.",
+      "best_for": [
+        "full picture",
+        "complex ongoing situation",
+        "hidden factors",
+        "life situation",
+        "detailed overview"
+      ],
+      "positions": [
+        {
+          "id": 1,
+          "name": "Past",
+          "korean_name": "과거",
+          "description": "What has led to this situation."
+        },
+        {
+          "id": 2,
+          "name": "Present",
+          "korean_name": "현재",
+          "description": "The current state of affairs."
+        },
+        {
+          "id": 3,
+          "name": "Hidden Influences",
+          "korean_name": "숨겨진 영향",
+          "description": "Factors at play beneath the surface — unconscious or unseen."
+        },
+        {
+          "id": 4,
+          "name": "Obstacle",
+          "korean_name": "장애물",
+          "description": "The main challenge or block to overcome."
+        },
+        {
+          "id": 5,
+          "name": "External Environment",
+          "korean_name": "외부 환경",
+          "description": "How others and the environment are influencing the situation."
+        },
+        {
+          "id": 6,
+          "name": "Recommended Approach",
+          "korean_name": "권장 접근법",
+          "description": "The best attitude or action to take moving forward."
+        },
+        {
+          "id": 7,
+          "name": "Likely Outcome",
+          "korean_name": "예상 결과",
+          "description": "The probable outcome if current energies continue."
+        }
+      ]
+    },
+    {
+      "id": "monthly",
+      "name": "Month Ahead Spread",
+      "korean_name": "이달의 흐름 배열",
+      "num_cards": 4,
+      "description": "A four-card spread looking at the energy, opportunity, challenge, and key lesson for the coming month. Best for 'what's ahead this month' or 'monthly reading' questions.",
+      "best_for": [
+        "monthly reading",
+        "month ahead",
+        "this month",
+        "upcoming period",
+        "near future"
+      ],
+      "positions": [
+        {
+          "id": 1,
+          "name": "Overall Energy of the Month",
+          "korean_name": "이달의 전체 에너지",
+          "description": "The dominant theme and energy shaping this month."
+        },
+        {
+          "id": 2,
+          "name": "Opportunity",
+          "korean_name": "기회",
+          "description": "The main opportunity available to you this month."
+        },
+        {
+          "id": 3,
+          "name": "Challenge",
+          "korean_name": "도전",
+          "description": "The main challenge or area requiring attention."
+        },
+        {
+          "id": 4,
+          "name": "Key Lesson",
+          "korean_name": "핵심 교훈",
+          "description": "The most important lesson this month is offering you."
+        }
+      ]
+    },
+    {
+      "id": "shadow_work",
+      "name": "Shadow Work Spread",
+      "korean_name": "내면 탐구 배열",
+      "num_cards": 4,
+      "description": "A four-card spread focused on the shadow self — unconscious patterns, wounds, and the path to integration. For deep inner work, recurring patterns, or emotional healing questions.",
+      "best_for": [
+        "shadow work",
+        "inner healing",
+        "recurring patterns",
+        "emotional blocks",
+        "self-sabotage",
+        "trauma",
+        "deep inner work"
+      ],
+      "positions": [
+        {
+          "id": 1,
+          "name": "The Shadow",
+          "korean_name": "그림자",
+          "description": "The unconscious pattern, wound, or suppressed aspect of yourself."
+        },
+        {
+          "id": 2,
+          "name": "Root Cause",
+          "korean_name": "근본 원인",
+          "description": "Where this shadow originates — a past experience or belief."
+        },
+        {
+          "id": 3,
+          "name": "What It Protects",
+          "korean_name": "보호하는 것",
+          "description": "What this shadow has been trying to protect you from."
+        },
+        {
+          "id": 4,
+          "name": "Path to Integration",
+          "korean_name": "통합의 길",
+          "description": "How to acknowledge, heal, and integrate this shadow into wholeness."
+        }
+      ]
+    }
+  ]
+}

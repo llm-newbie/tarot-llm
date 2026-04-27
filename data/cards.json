@@ -1,0 +1,2186 @@
+{
+  "major_arcana": [
+    {
+      "id": "major-00",
+      "name": "The Fool",
+      "number": 0,
+      "arcana": "major",
+      "element": "Air",
+      "keywords": [
+        "new beginnings",
+        "spontaneity",
+        "innocence",
+        "adventure",
+        "leap of faith"
+      ],
+      "upright": {
+        "general": "A new journey begins. You are standing at a threshold, full of potential and unburdened by past experience. Embrace the unknown with an open heart.",
+        "love": "A fresh romantic chapter, playful energy, or meeting someone unexpected. Don't overthink — let things unfold naturally.",
+        "career": "A bold new career move, starting a business, or taking a risk that others might call reckless. Trust your instincts.",
+        "finance": "You may be taking a financial leap. Excitement is high but caution is needed. Balance spontaneity with basic planning.",
+        "health": "Renewed vitality and optimism. Good time to try new wellness routines or adventures."
+      },
+      "reversed": {
+        "general": "Recklessness, poor planning, or fear of starting. You may be holding back from a needed change, or leaping without any thought.",
+        "love": "Naivety in love, being taken advantage of, or fear of commitment and vulnerability.",
+        "career": "Hasty decisions, lack of direction, or refusing to grow beyond comfort zones.",
+        "finance": "Careless spending, risky gambles without research, financial immaturity.",
+        "health": "Ignoring warning signs, reckless behavior affecting wellbeing."
+      },
+      "symbolism": "The Fool walks toward a cliff, carefree, with a small pack of belongings and a white rose symbolizing purity. A dog nips at his heels — the voice of practical reason.",
+      "archetype": "The eternal beginner, the divine child"
+    },
+    {
+      "id": "major-01",
+      "name": "The Magician",
+      "number": 1,
+      "arcana": "major",
+      "element": "Air",
+      "planet": "Mercury",
+      "keywords": [
+        "willpower",
+        "skill",
+        "manifestation",
+        "resourcefulness",
+        "concentration"
+      ],
+      "upright": {
+        "general": "You have all the tools you need. This is a time of great personal power — channel your focus and turn intention into reality.",
+        "love": "You have the magnetism and charm to attract what you want. Be intentional about what kind of love you invite.",
+        "career": "Mastery, skill, and the ability to make things happen. A promotion, new project, or recognition of your talents.",
+        "finance": "Smart financial moves are possible. You have the skill — use it. Good time for investment with research.",
+        "health": "Strong mind-body connection. Mental focus aids physical recovery and vitality."
+      },
+      "reversed": {
+        "general": "Manipulation, trickery, or wasted potential. Your skills may be misdirected or someone around you is being deceptive.",
+        "love": "Manipulation or illusion in a relationship. Someone may not be who they appear to be.",
+        "career": "Cunning used for ill, or feeling unable to apply your talents effectively.",
+        "finance": "Financial deception — either from others or your own wishful thinking.",
+        "health": "Psychosomatic issues, or using energy in destructive patterns."
+      },
+      "symbolism": "The Magician stands with one arm raised to the sky, one pointing to earth — 'As above, so below.' On his table: a cup, sword, wand, and pentacle, representing all four elements.",
+      "archetype": "The alchemist, the transformer"
+    },
+    {
+      "id": "major-02",
+      "name": "The High Priestess",
+      "number": 2,
+      "arcana": "major",
+      "element": "Water",
+      "planet": "Moon",
+      "keywords": [
+        "intuition",
+        "mystery",
+        "inner knowledge",
+        "subconscious",
+        "patience"
+      ],
+      "upright": {
+        "general": "Answers lie within. Trust your gut over logical analysis. Something hidden will be revealed in time — wait and listen.",
+        "love": "Deep emotional bonds, psychic connection, or a relationship that needs time to reveal itself. Don't rush.",
+        "career": "Hidden information, behind-the-scenes dynamics. Research thoroughly before acting. Intuition over impulse.",
+        "finance": "Not everything is visible. Look deeper before committing. There may be hidden costs or opportunities.",
+        "health": "Listen to your body's quiet signals. Intuitive healing, rest, and inner work are favored."
+      },
+      "reversed": {
+        "general": "Ignoring intuition, information withheld, or secrets surfacing. You may be out of touch with your inner self.",
+        "love": "Hidden feelings, repression, or lack of emotional honesty.",
+        "career": "Information asymmetry — someone knows more than they're sharing.",
+        "finance": "Hidden debts or denial about financial realities.",
+        "health": "Suppressed emotional pain manifesting physically. Time to look inward."
+      },
+      "symbolism": "She sits between two pillars (B and J — Boaz and Jachin) before a veil of pomegranates. A crescent moon at her feet, the Torah in her lap — she guards the threshold between worlds.",
+      "archetype": "The oracle, the inner wise woman"
+    },
+    {
+      "id": "major-03",
+      "name": "The Empress",
+      "number": 3,
+      "arcana": "major",
+      "element": "Earth",
+      "planet": "Venus",
+      "keywords": [
+        "fertility",
+        "nature",
+        "abundance",
+        "nurturing",
+        "creativity",
+        "sensuality"
+      ],
+      "upright": {
+        "general": "A time of growth, abundance, and creative flourishing. Nature supports you. Nurture what you've planted.",
+        "love": "Deep sensual connection, a relationship blossoming, pregnancy, or unconditional love and care.",
+        "career": "Creative projects thrive. A nurturing work environment or leadership through care and abundance.",
+        "finance": "Abundance is flowing. Financial growth, especially from creative or nature-based work.",
+        "health": "Vitality, fertility, and physical wellbeing. Connect with nature. Honor your body."
+      },
+      "reversed": {
+        "general": "Creative blocks, dependence, or neglect of self-care. Over-giving or smothering others.",
+        "love": "Co-dependence, jealousy, or neglecting your own needs in a relationship.",
+        "career": "Creative stagnation or a toxic nurturing dynamic at work.",
+        "finance": "Overspending on comfort, or difficulty receiving abundance.",
+        "health": "Neglecting the body, issues around fertility or feminine health."
+      },
+      "symbolism": "A crowned figure sits in a lush garden, surrounded by wheat and a heart-shaped shield with the Venus symbol. She embodies Earth's generative power.",
+      "archetype": "The Great Mother, the creator"
+    },
+    {
+      "id": "major-04",
+      "name": "The Emperor",
+      "number": 4,
+      "arcana": "major",
+      "element": "Fire",
+      "planet": "Aries",
+      "keywords": [
+        "authority",
+        "structure",
+        "stability",
+        "leadership",
+        "discipline",
+        "control"
+      ],
+      "upright": {
+        "general": "Establish order and take command. Structure leads to success now. Strong foundations, clear rules, decisive action.",
+        "love": "A stable, committed partner. Security and loyalty in love, though warmth may need cultivating.",
+        "career": "Leadership, authority, and organizational success. A promotion or taking charge of a situation.",
+        "finance": "Disciplined approach pays off. Build wealth through structure and long-term planning.",
+        "health": "Disciplined health routines. Address issues through structure and consistency."
+      },
+      "reversed": {
+        "general": "Tyranny, rigidity, or abuse of power. An authority figure may be overbearing, or you may be too controlling.",
+        "love": "Domination, inflexibility, or emotional coldness in a relationship.",
+        "career": "Power struggles, authoritarian leadership, or rebellion against structure.",
+        "finance": "Financial rigidity or control issues around money.",
+        "health": "Stress from control issues, or ignoring doctor's advice out of stubbornness."
+      },
+      "symbolism": "The Emperor sits on a stone throne adorned with rams' heads, wearing armor beneath his robes. The arid mountains behind him show his dominion over nature.",
+      "archetype": "The king, the father, the ruler"
+    },
+    {
+      "id": "major-05",
+      "name": "The Hierophant",
+      "number": 5,
+      "arcana": "major",
+      "element": "Earth",
+      "planet": "Taurus",
+      "keywords": [
+        "tradition",
+        "conformity",
+        "moral guidance",
+        "institutions",
+        "belief systems",
+        "mentorship"
+      ],
+      "upright": {
+        "general": "Seek wisdom from established traditions, mentors, or institutions. There is value in structure and shared beliefs.",
+        "love": "Traditional relationships, commitment, marriage, or shared spiritual values. Meeting a partner through conventional means.",
+        "career": "Following established paths, working within institutions, mentorship, or pursuing formal education.",
+        "finance": "Conservative financial approaches. Seek advice from established experts.",
+        "health": "Follow conventional medical advice. Trust established health systems."
+      },
+      "reversed": {
+        "general": "Rebellion against tradition, dogma, or institutional corruption. Breaking free from convention — or being trapped by it.",
+        "love": "Unconventional relationships, or feeling constrained by social expectations around love.",
+        "career": "Challenging the status quo, leaving a traditional career path, or issues with authority.",
+        "finance": "Unconventional approaches to money — may be liberating or reckless.",
+        "health": "Exploring alternative medicine or rebelling against medical advice."
+      },
+      "symbolism": "A religious figure in elaborate vestments sits between two pillars, blessing two followers. He holds a triple scepter and wears a triple crown — the bridge between heaven and earth.",
+      "archetype": "The teacher, the priest, the tradition-keeper"
+    },
+    {
+      "id": "major-06",
+      "name": "The Lovers",
+      "number": 6,
+      "arcana": "major",
+      "element": "Air",
+      "planet": "Gemini",
+      "keywords": [
+        "love",
+        "union",
+        "choices",
+        "alignment",
+        "values",
+        "relationships"
+      ],
+      "upright": {
+        "general": "A significant choice must be made — align your decision with your deepest values. Union and harmony are possible.",
+        "love": "A deep, soulful connection. Mutual love, partnership, or a meaningful relationship milestone.",
+        "career": "A major career choice. Align your work with your values. Partnerships and collaborations are favored.",
+        "finance": "Financial decisions require careful value-alignment. Joint finances may be relevant.",
+        "health": "Mind-body-spirit alignment. Choices affecting long-term health require careful consideration."
+      },
+      "reversed": {
+        "general": "Misalignment of values, indecision, or a relationship out of harmony. Fear of commitment or bad choices.",
+        "love": "Relationship imbalance, infidelity, or a difficult choice between partners or paths.",
+        "career": "Compromising your values at work, or a difficult career decision with no clear answer.",
+        "finance": "Poor financial decisions due to emotional reasoning or conflicting priorities.",
+        "health": "Internal conflict affecting physical health. Mind and body not working together."
+      },
+      "symbolism": "A man and woman stand naked beneath an angel who blesses them. Behind the woman is the Tree of Knowledge; behind the man, the Tree of Life. The volcano in the background represents passion.",
+      "archetype": "The soul mate, the integration of opposites"
+    },
+    {
+      "id": "major-07",
+      "name": "The Chariot",
+      "number": 7,
+      "arcana": "major",
+      "element": "Water",
+      "planet": "Cancer",
+      "keywords": [
+        "determination",
+        "willpower",
+        "victory",
+        "control",
+        "ambition",
+        "direction"
+      ],
+      "upright": {
+        "general": "Push forward with confidence. Victory is within reach through focused willpower and disciplined action. Don't let opposing forces derail you.",
+        "love": "Pursuing love with determination. A relationship that requires effort but is worth it. Moving forward after obstacles.",
+        "career": "Ambitious drive leads to success. Overcome challenges through sheer will. Promotions, competitive wins.",
+        "finance": "Financial goals achieved through disciplined effort. Keep pushing toward your targets.",
+        "health": "Recovery through determination. Physical training and competitive sports are favored."
+      },
+      "reversed": {
+        "general": "Loss of control, aggression, or scattered focus. You may be forcing outcomes that need a different approach.",
+        "love": "Controlling behavior, forcing a relationship that isn't working, or lack of direction.",
+        "career": "Burnout, losing battles, or aggression in the workplace.",
+        "finance": "Reckless financial ambition. Check if you're chasing the wrong goals.",
+        "health": "Overexertion, aggression-related injuries, or forcing recovery too quickly."
+      },
+      "symbolism": "A warrior rides a chariot pulled by two sphinxes — one black, one white — representing opposing forces brought under control. He wears a canopy of stars, ruling over both heaven and earth.",
+      "archetype": "The warrior, the achiever"
+    },
+    {
+      "id": "major-08",
+      "name": "Strength",
+      "number": 8,
+      "arcana": "major",
+      "element": "Fire",
+      "planet": "Leo",
+      "keywords": [
+        "courage",
+        "patience",
+        "inner strength",
+        "compassion",
+        "mastery",
+        "resilience"
+      ],
+      "upright": {
+        "general": "True strength comes from within — from love, patience, and compassion, not force. You have what it takes to face what lies ahead.",
+        "love": "Relationships built on deep understanding and patience. Compassionate love that endures difficulties.",
+        "career": "Overcoming challenges with grace. Leadership through emotional intelligence rather than authority.",
+        "finance": "Patient, long-term approach to finances. Slow and steady wins the race.",
+        "health": "Inner resilience in recovery. Mind over matter — positive attitude significantly impacts health."
+      },
+      "reversed": {
+        "general": "Self-doubt, weakness, or losing your temper. You may be relying on force where gentleness is needed, or vice versa.",
+        "love": "Emotional insecurity or aggression in a relationship. Fear of vulnerability.",
+        "career": "Lack of confidence undermining performance, or brute force creating enemies.",
+        "finance": "Impatient financial decisions, or fear preventing necessary financial risks.",
+        "health": "Low willpower affecting health goals. Emotional issues manifesting physically."
+      },
+      "symbolism": "A woman gently closes the mouth of a lion with her bare hands. Above her head floats an infinity symbol. She tames the beast through love, not force.",
+      "archetype": "The gentle warrior, the inner lion-tamer"
+    },
+    {
+      "id": "major-09",
+      "name": "The Hermit",
+      "number": 9,
+      "arcana": "major",
+      "element": "Earth",
+      "planet": "Virgo",
+      "keywords": [
+        "soul-searching",
+        "solitude",
+        "guidance",
+        "introspection",
+        "wisdom",
+        "withdrawal"
+      ],
+      "upright": {
+        "general": "Retreat inward. A period of solitude and reflection will bring the answers you seek. Your inner light guides you through the dark.",
+        "love": "A need for space and introspection before committing. A solitary period, or a mentor-like romantic figure.",
+        "career": "Working alone or in deep focus. A period of study, research, or consultation with a wise mentor.",
+        "finance": "Careful, deliberate financial planning. Seek wise counsel before making big moves.",
+        "health": "Rest and recuperation. Mindfulness, meditation, and spiritual healing are favored."
+      },
+      "reversed": {
+        "general": "Isolation becoming loneliness, or refusing necessary solitude. You may be hiding from the world or from yourself.",
+        "love": "Excessive isolation damaging a relationship, or someone too withdrawn to connect emotionally.",
+        "career": "Working in a silo, poor team communication, or missing opportunities due to isolation.",
+        "finance": "Financial decisions made in isolation without good advice.",
+        "health": "Social isolation affecting mental health. Don't let self-care become self-neglect."
+      },
+      "symbolism": "An old man stands alone on a snowy mountain peak, holding a lantern containing a six-pointed star. He is the seeker who has climbed to the heights of wisdom.",
+      "archetype": "The sage, the seeker, the wise elder"
+    },
+    {
+      "id": "major-10",
+      "name": "Wheel of Fortune",
+      "number": 10,
+      "arcana": "major",
+      "element": "Fire",
+      "planet": "Jupiter",
+      "keywords": [
+        "change",
+        "cycles",
+        "fate",
+        "luck",
+        "turning point",
+        "destiny"
+      ],
+      "upright": {
+        "general": "A significant turning point is approaching. Life's cycles are turning in your favor. Embrace change and trust in fate's larger plan.",
+        "love": "A fateful meeting, a relationship reaching a new phase, or a sudden positive shift in romantic life.",
+        "career": "A lucky break, unexpected opportunity, or a turning point in your career trajectory.",
+        "finance": "Financial winds are shifting — possibly for the better. Be ready to act on opportunities.",
+        "health": "Improvement on the horizon. A turning point in a health situation."
+      },
+      "reversed": {
+        "general": "Bad luck, resistance to change, or being caught in a negative cycle. Fighting the inevitable.",
+        "love": "A relationship going in circles, or bad timing affecting love.",
+        "career": "Missed opportunities, or being at the wrong place at the wrong time.",
+        "finance": "Financial downturn or instability. The wheel turns down — plan accordingly.",
+        "health": "A setback in recovery. External factors affecting health."
+      },
+      "symbolism": "A great wheel turns in the sky, with mystical creatures at each corner. The sphinx at the top holds a sword; Anubis descends. The wheel of karma always turns.",
+      "archetype": "The wheel of karma, fate, the cycle of life"
+    },
+    {
+      "id": "major-11",
+      "name": "Justice",
+      "number": 11,
+      "arcana": "major",
+      "element": "Air",
+      "planet": "Libra",
+      "keywords": [
+        "fairness",
+        "truth",
+        "cause and effect",
+        "law",
+        "accountability",
+        "balance"
+      ],
+      "upright": {
+        "general": "Truth will prevail. Actions have consequences — karmic balance is at work. Legal matters, fairness, and ethical decision-making are themes.",
+        "love": "A relationship built on honesty and mutual respect. Fair treatment of each other. Legal union or separation.",
+        "career": "Fairness in the workplace, legal contracts, or getting what you've earned. Ethical conduct is required.",
+        "finance": "Financial fairness — debts settled, taxes, or legal financial matters. You reap what you sow.",
+        "health": "Lifestyle choices directly affecting health. Take responsibility for your wellbeing."
+      },
+      "reversed": {
+        "general": "Injustice, dishonesty, or avoiding accountability. Legal troubles or an unfair outcome.",
+        "love": "Unfairness or dishonesty in a relationship. Someone is not taking responsibility.",
+        "career": "Workplace injustice, corruption, or legal problems affecting work.",
+        "finance": "Financial dishonesty, tax issues, or unfair financial treatment.",
+        "health": "Ignoring the consequences of unhealthy habits."
+      },
+      "symbolism": "A figure sits between two pillars holding a sword in one hand and balanced scales in the other. The scales represent impartiality; the sword, decisive truth.",
+      "archetype": "The judge, the karmic force"
+    },
+    {
+      "id": "major-12",
+      "name": "The Hanged Man",
+      "number": 12,
+      "arcana": "major",
+      "element": "Water",
+      "planet": "Neptune",
+      "keywords": [
+        "surrender",
+        "new perspective",
+        "pause",
+        "sacrifice",
+        "release",
+        "waiting"
+      ],
+      "upright": {
+        "general": "Voluntary surrender opens new insight. What looks like a setback may be a profound shift in perspective. Let go — and see what is revealed.",
+        "love": "A relationship on pause, or the need to release old patterns to find real love. Surrender to what is.",
+        "career": "A waiting period, a project on hold, or the need to see your work from a completely different angle.",
+        "finance": "Financial sacrifice now for greater gain later. An investment that requires patience.",
+        "health": "Rest and surrender are healing. Stop fighting and allow recovery to happen."
+      },
+      "reversed": {
+        "general": "Resistance to necessary change, feeling stuck, or martyrdom. Sacrifice without purpose.",
+        "love": "Feeling stuck in a relationship, or sacrificing too much without reciprocation.",
+        "career": "Stagnation, indecision, or refusing to let go of an outdated approach.",
+        "finance": "Financial stagnation or poor investments that drain resources.",
+        "health": "Refusing necessary rest, or feeling trapped in a health situation."
+      },
+      "symbolism": "A man hangs upside down from a living tree by one ankle, his face peaceful, his hair forming a halo. He chose this position — surrender as enlightenment.",
+      "archetype": "The willing sacrifice, the mystic"
+    },
+    {
+      "id": "major-13",
+      "name": "Death",
+      "number": 13,
+      "arcana": "major",
+      "element": "Water",
+      "planet": "Scorpio",
+      "keywords": [
+        "endings",
+        "transformation",
+        "transition",
+        "letting go",
+        "change",
+        "rebirth"
+      ],
+      "upright": {
+        "general": "An era ends so a new one can begin. This is not physical death but radical transformation. Release what no longer serves you.",
+        "love": "The end of a relationship phase, or a profound transformation of an existing bond. Something must end for something better to emerge.",
+        "career": "A major career change, end of a job, or complete professional reinvention. Necessary endings.",
+        "finance": "Financial transformation — an old pattern ending, debt cleared, or a complete change in financial life.",
+        "health": "Recovery from a serious illness, or the need to completely change health habits."
+      },
+      "reversed": {
+        "general": "Resistance to change, stagnation, or fear of endings. Clinging to the past at great personal cost.",
+        "love": "Refusing to end a relationship that has run its course. Fear of change keeping you stuck.",
+        "career": "Inability to move on from a dead-end job, or fear of professional reinvention.",
+        "finance": "Prolonging financial patterns that no longer work. Refusing to let old financial identities die.",
+        "health": "Fearing necessary medical procedures, or refusing lifestyle changes needed for health."
+      },
+      "symbolism": "A skeleton knight rides a white horse across a landscape of the dead and dying. A bishop prays, a child offers flowers. In the background, the sun rises between two towers — death and renewal are one.",
+      "archetype": "The transformer, the inevitable change"
+    },
+    {
+      "id": "major-14",
+      "name": "Temperance",
+      "number": 14,
+      "arcana": "major",
+      "element": "Fire",
+      "planet": "Sagittarius",
+      "keywords": [
+        "balance",
+        "moderation",
+        "patience",
+        "purpose",
+        "harmony",
+        "alchemy"
+      ],
+      "upright": {
+        "general": "Find the middle way. Patient, measured action blending opposites creates something greater than either alone. Purpose and flow align.",
+        "love": "A harmonious, balanced relationship. Patience and moderation creating lasting love. Healing after past hurts.",
+        "career": "Long-term vision over short-term gains. Collaboration, teamwork, and patient progress toward meaningful goals.",
+        "finance": "Moderate and balanced financial approach. Slow, steady growth. Avoid extremes.",
+        "health": "Balance in all areas of health. Moderate exercise, balanced diet, emotional equanimity."
+      },
+      "reversed": {
+        "general": "Imbalance, excess, or lack of purpose. Things feel off — extremes are causing harm.",
+        "love": "Relationship imbalance, or trying to force harmony where there is fundamental incompatibility.",
+        "career": "Extremes causing burnout, or lack of clear purpose affecting professional life.",
+        "finance": "Financial excess — spending or saving to unhealthy extremes.",
+        "health": "Extremes in diet, exercise, or lifestyle causing health problems."
+      },
+      "symbolism": "An angel stands with one foot on land and one in water, pouring liquid between two cups. The triangle in a square on their robe represents the physical within the spiritual.",
+      "archetype": "The alchemist, the bridge between worlds"
+    },
+    {
+      "id": "major-15",
+      "name": "The Devil",
+      "number": 15,
+      "arcana": "major",
+      "element": "Earth",
+      "planet": "Capricorn",
+      "keywords": [
+        "bondage",
+        "materialism",
+        "shadow self",
+        "addiction",
+        "restriction",
+        "temptation"
+      ],
+      "upright": {
+        "general": "You may be bound by material attachments, addictions, or negative patterns. The chains are loosely attached — awareness is the first step to freedom.",
+        "love": "A toxic or codependent relationship, lust over love, or feeling trapped. Examine what you're really attached to.",
+        "career": "A job that feels like a trap, materialism over meaning, or unethical work environment.",
+        "finance": "Debt, financial bondage, or unhealthy relationship with money and materialism.",
+        "health": "Addiction, obsession, or unhealthy habits. The body and mind need liberation."
+      },
+      "reversed": {
+        "general": "Breaking free from chains, releasing addictions, or confronting your shadow self. Liberation is possible.",
+        "love": "Leaving a toxic relationship, or breaking codependent patterns.",
+        "career": "Escaping a bad work situation, or breaking free from materialistic career goals.",
+        "finance": "Breaking free from debt cycles or financial addictions.",
+        "health": "Recovery from addiction. Shadow work supporting physical health."
+      },
+      "symbolism": "A horned demon sits enthroned above a man and woman chained to his pedestal — but the chains are loose, worn freely. The inverted pentagram signals perverted earthly power.",
+      "archetype": "The shadow, the trickster, the inner demon"
+    },
+    {
+      "id": "major-16",
+      "name": "The Tower",
+      "number": 16,
+      "arcana": "major",
+      "element": "Fire",
+      "planet": "Mars",
+      "keywords": [
+        "sudden change",
+        "chaos",
+        "revelation",
+        "upheaval",
+        "destruction",
+        "truth"
+      ],
+      "upright": {
+        "general": "A sudden, shocking disruption shatters false structures. What falls had to fall. From the rubble, more authentic foundations can be built.",
+        "love": "A sudden relationship crisis, revelation, or breakup that was ultimately necessary. Shocking truth exposed.",
+        "career": "Sudden job loss, organizational upheaval, or a dramatic industry disruption.",
+        "finance": "Financial shock — unexpected loss, market crash, or sudden revelation about money.",
+        "health": "A sudden health crisis or diagnosis. Also: sudden breakthrough in recovery."
+      },
+      "reversed": {
+        "general": "Avoiding necessary upheaval, or prolonged instability. A disaster averted or a crisis delayed — but not forever.",
+        "love": "Avoiding a necessary breakup, or ongoing low-level relationship chaos.",
+        "career": "Workplace instability prolonged, or fear of necessary change.",
+        "finance": "Ongoing financial instability, or narrowly avoiding a financial crisis.",
+        "health": "Chronic stress from avoiding necessary change in lifestyle."
+      },
+      "symbolism": "Lightning strikes a tower on a rocky mountain. The crown flies off. Two figures fall from the windows. The storm of truth destroys what was built on false foundations.",
+      "archetype": "The lightning bolt of truth, the necessary destruction"
+    },
+    {
+      "id": "major-17",
+      "name": "The Star",
+      "number": 17,
+      "arcana": "major",
+      "element": "Air",
+      "planet": "Aquarius",
+      "keywords": [
+        "hope",
+        "renewal",
+        "serenity",
+        "inspiration",
+        "healing",
+        "faith"
+      ],
+      "upright": {
+        "general": "After the storm, light returns. Hope is renewed. Trust that you are being guided and that healing is underway. The universe supports you.",
+        "love": "Hope and healing in love. A beautiful, soul-nourishing relationship or the hope of one coming. Serenity after heartbreak.",
+        "career": "Inspiration, renewed purpose, and recognition. Your work is aligned with your calling.",
+        "finance": "Financial hope renewed. Light at the end of a difficult tunnel. Generosity flows both ways.",
+        "health": "Healing is underway. A hopeful health prognosis. Spiritual healing supports physical recovery."
+      },
+      "reversed": {
+        "general": "Loss of hope, despair, or disconnection from faith. The stars feel hidden — but they are still there.",
+        "love": "Hopelessness about love, or feeling disconnected from a partner's light.",
+        "career": "Loss of professional inspiration or feeling unseen in your work.",
+        "finance": "Financial despair. Hard to see a path forward — but one exists.",
+        "health": "Discouragement about health. Maintain hope — healing takes time."
+      },
+      "symbolism": "A naked woman kneels by a pool, pouring water from two jugs — one into the pool, one onto the land. Eight stars fill the sky. Vulnerability and healing as acts of faith.",
+      "archetype": "The healer, the hope-bringer"
+    },
+    {
+      "id": "major-18",
+      "name": "The Moon",
+      "number": 18,
+      "arcana": "major",
+      "element": "Water",
+      "planet": "Pisces",
+      "keywords": [
+        "illusion",
+        "fear",
+        "the unconscious",
+        "dreams",
+        "confusion",
+        "cycles"
+      ],
+      "upright": {
+        "general": "Not everything is as it appears. Your imagination, fears, and the unconscious are very active now. Navigate carefully through uncertainty.",
+        "love": "Confusion or illusion in a relationship. Hidden feelings, unresolved fears, or a connection with deep emotional complexity.",
+        "career": "Unclear situation at work, hidden agendas, or creative work fueled by the unconscious.",
+        "finance": "Financial confusion or deception. Get clarity before acting — things may not be as they seem.",
+        "health": "Mental health challenges, sleep issues, or health symptoms that are hard to diagnose."
+      },
+      "reversed": {
+        "general": "Confusion lifting, fears being released, or illusions dissolving. What was hidden comes to light.",
+        "love": "Truth emerging in a relationship, confusion resolved, or facing relationship fears.",
+        "career": "A murky work situation becoming clearer. Hidden information surfaces.",
+        "finance": "Financial clarity after confusion. A deception is uncovered.",
+        "health": "Mental clarity returning, or finally getting an accurate diagnosis."
+      },
+      "symbolism": "The moon shines over a pool. A crayfish climbs from the water. A dog and wolf howl at the moon. Two towers mark the path into the unknown unconscious wilderness.",
+      "archetype": "The dreamer, the unconscious mind"
+    },
+    {
+      "id": "major-19",
+      "name": "The Sun",
+      "number": 19,
+      "arcana": "major",
+      "element": "Fire",
+      "planet": "Sun",
+      "keywords": [
+        "joy",
+        "success",
+        "positivity",
+        "vitality",
+        "clarity",
+        "radiance"
+      ],
+      "upright": {
+        "general": "Pure, unambiguous joy and success. You are in a golden period — things are clear, bright, and full of life. Celebrate.",
+        "love": "A joyful, life-affirming relationship. New romance, celebration of love, or a relationship radiating warmth and happiness.",
+        "career": "Success, recognition, and achievement. Your work shines. Promotions, accolades, or starting something with real momentum.",
+        "finance": "Financial success and abundance. Generous returns on investments. Bright financial outlook.",
+        "health": "Radiant health and vitality. Full recovery, or simply feeling wonderfully alive."
+      },
+      "reversed": {
+        "general": "Temporary setbacks to joy, or an inability to access your own inner light. The sun is still there — clouds are passing.",
+        "love": "Relationship difficulties dimming joy, or ego and pride creating distance.",
+        "career": "Overconfidence, or success blocked by temporary obstacles.",
+        "finance": "Overspending during good times, or delays in financial success.",
+        "health": "A temporary dip in vitality. Self-care needed to restore natural radiance."
+      },
+      "symbolism": "A child rides a white horse under a blazing sun, arms wide open, a red banner flowing. Sunflowers bloom behind a stone wall. Pure, unguarded joy and life.",
+      "archetype": "The divine child, the life force"
+    },
+    {
+      "id": "major-20",
+      "name": "Judgement",
+      "number": 20,
+      "arcana": "major",
+      "element": "Fire",
+      "planet": "Pluto",
+      "keywords": [
+        "reflection",
+        "reckoning",
+        "awakening",
+        "absolution",
+        "calling",
+        "transformation"
+      ],
+      "upright": {
+        "general": "A profound awakening and calling. It is time to answer a deeper summons — to rise, to be renewed, to fully step into who you are meant to be.",
+        "love": "A profound renewal in a relationship, or a calling to make a major relationship decision. Honest reckoning with past relationship patterns.",
+        "career": "A calling to meaningful work, or a major professional decision after deep reflection.",
+        "finance": "Financial reckoning — reviewing past decisions and making new commitments for the future.",
+        "health": "A wake-up call about health, or a profound healing and renewal."
+      },
+      "reversed": {
+        "general": "Self-doubt, refusing the call, or harsh self-judgment blocking growth. You are harder on yourself than any external judge.",
+        "love": "Refusing to let go of past relationship wounds, or excessive self-blame.",
+        "career": "Ignoring a professional calling, or harsh self-criticism undermining confidence.",
+        "finance": "Regret over past financial mistakes blocking present action.",
+        "health": "Harsh self-judgment affecting health. Stop punishing yourself — heal instead."
+      },
+      "symbolism": "An angel blows a trumpet from the clouds. The dead rise from coffins, arms outstretched. Mountain peaks surround all. The final awakening — not death, but resurrection.",
+      "archetype": "The awakener, the final call"
+    },
+    {
+      "id": "major-21",
+      "name": "The World",
+      "number": 21,
+      "arcana": "major",
+      "element": "Earth",
+      "planet": "Saturn",
+      "keywords": [
+        "completion",
+        "integration",
+        "accomplishment",
+        "wholeness",
+        "fulfillment",
+        "travel"
+      ],
+      "upright": {
+        "general": "A great cycle completes. You have achieved something significant and are now whole. Celebrate — and prepare to begin again at a higher level.",
+        "love": "A relationship reaching its highest potential, or a sense of complete love and mutual fulfillment.",
+        "career": "Major career milestone achieved. A project completed, a goal realized. Recognition and success.",
+        "finance": "Financial goals achieved. A sense of abundance and completion. Everything in its right place.",
+        "health": "Full recovery and wholeness. A sense of complete physical and mental wellbeing."
+      },
+      "reversed": {
+        "general": "Incompletion, shortcuts, or not fully integrating lessons. Something is preventing the natural completion of a cycle.",
+        "love": "A relationship stuck before reaching its full potential, or fear of committing to love.",
+        "career": "Almost there but not quite — a project unfinished or goal just out of reach.",
+        "finance": "Financial goals not quite realized, or feeling like abundance is always slightly out of reach.",
+        "health": "Recovery incomplete. Something still unresolved preventing full health."
+      },
+      "symbolism": "A dancing figure is wrapped in a purple sash, holding two wands. An oval wreath surrounds her. The four figures at the corners mirror The Wheel of Fortune — the great cycle complete.",
+      "archetype": "The integrated whole, the dancing universe"
+    }
+  ],
+  "minor_arcana": {
+    "wands": {
+      "suit_theme": "passion, creativity, ambition, career, fire energy, inspiration",
+      "element": "Fire",
+      "cards": [
+        {
+          "id": "wands-01",
+          "name": "Ace of Wands",
+          "number": 1,
+          "keywords": [
+            "inspiration",
+            "new beginnings",
+            "creative spark",
+            "potential",
+            "enthusiasm"
+          ],
+          "upright": {
+            "general": "A burst of creative energy and inspiration. A new project, idea, or passion is igniting. Seize this spark before it fades.",
+            "love": "Exciting new romantic beginning. Passion and chemistry. A relationship full of fire and life.",
+            "career": "A new creative project, business idea, or career opportunity full of potential.",
+            "finance": "A new financial opportunity or venture with exciting potential.",
+            "health": "Surge of vitality and energy. Excellent time to start a new fitness or wellness regimen."
+          },
+          "reversed": {
+            "general": "Creative blocks, false starts, or lost enthusiasm. The spark is there but won't catch — examine why.",
+            "love": "Lack of excitement in romance, or a relationship losing its spark.",
+            "career": "Delayed projects, creative blocks, or a new venture failing to launch.",
+            "finance": "A financial opportunity not materializing as hoped.",
+            "health": "Low energy or motivation to begin new health habits."
+          }
+        },
+        {
+          "id": "wands-02",
+          "name": "2 of Wands",
+          "number": 2,
+          "keywords": [
+            "planning",
+            "future vision",
+            "decisions",
+            "expansion",
+            "discovery"
+          ],
+          "upright": {
+            "general": "You are planning your next move from a position of strength. The world is open to you — decide where to go next.",
+            "love": "Deciding on the direction of a relationship. Long-distance romance or someone planning a future together.",
+            "career": "Strategic planning, considering expansion, or deciding between career opportunities.",
+            "finance": "Planning financial growth. Considering investments or business expansion.",
+            "health": "Planning a long-term health journey. Setting goals for the future."
+          },
+          "reversed": {
+            "general": "Lack of planning, fear of the unknown, or restlessness without direction.",
+            "love": "Indecision about a relationship's future, or fear of commitment.",
+            "career": "Poor planning, or being stuck in a comfort zone without growing.",
+            "finance": "Lack of financial planning or fear of investment.",
+            "health": "Lack of long-term health planning or consistency."
+          }
+        },
+        {
+          "id": "wands-03",
+          "name": "3 of Wands",
+          "number": 3,
+          "keywords": [
+            "foresight",
+            "expansion",
+            "progress",
+            "enterprise",
+            "waiting for results"
+          ],
+          "upright": {
+            "general": "Your plans are in motion and the first results are visible. Look ahead — expansion and growth are on the horizon.",
+            "love": "A relationship growing and expanding. Long-distance connections, or someone returning from afar.",
+            "career": "Business expansion, international opportunities, or seeing early results of your hard work.",
+            "finance": "Financial expansion. Overseas investments or enterprises showing positive results.",
+            "health": "Progress in health goals becoming visible. Keep going."
+          },
+          "reversed": {
+            "general": "Delays, obstacles to expansion, or plans not materializing as expected.",
+            "love": "Long-distance relationship difficulties or delays in relationship progress.",
+            "career": "Plans not going as hoped, obstacles to expansion.",
+            "finance": "Financial delays or failed expansion plans.",
+            "health": "Slower than expected progress in health goals."
+          }
+        },
+        {
+          "id": "wands-04",
+          "name": "4 of Wands",
+          "number": 4,
+          "keywords": [
+            "celebration",
+            "harmony",
+            "homecoming",
+            "community",
+            "stability"
+          ],
+          "upright": {
+            "general": "A time of celebration, community joy, and stable foundation. A milestone worth celebrating with those you love.",
+            "love": "Celebration in love — engagement, wedding, anniversary, or a relationship milestone. Joyful partnership.",
+            "career": "Team celebration, project completion milestone, or a positive company event.",
+            "finance": "Financial stability worth celebrating. A savings goal reached or financial security established.",
+            "health": "Celebrating health milestones. Community support enhancing wellbeing."
+          },
+          "reversed": {
+            "general": "Delayed celebrations, family tension, or a sense of incompletion around a milestone.",
+            "love": "Relationship instability, cancelled celebrations, or tension at home.",
+            "career": "Delayed recognition, team conflict, or a problematic work environment.",
+            "finance": "Unstable financial foundation or delayed financial milestones.",
+            "health": "Health-related celebrations premature, or home environment affecting health."
+          }
+        },
+        {
+          "id": "wands-05",
+          "name": "5 of Wands",
+          "number": 5,
+          "keywords": [
+            "conflict",
+            "competition",
+            "tension",
+            "diversity",
+            "challenges"
+          ],
+          "upright": {
+            "general": "Conflict and competition abound. Multiple forces pulling in different directions. Energy is high — channel it productively.",
+            "love": "Conflicts or competition in romance. Arguments, jealousy, or fighting for someone's attention.",
+            "career": "Fierce competition, workplace conflicts, or creative tension between team members.",
+            "finance": "Financial competition or conflict. Multiple financial pressures pulling at resources.",
+            "health": "High stress from conflict affecting health. Channel tension into exercise."
+          },
+          "reversed": {
+            "general": "Conflict avoided or resolved. Alternatively, suppressed tension that needs addressing.",
+            "love": "Resolution of relationship conflict, or avoiding necessary confrontation.",
+            "career": "Workplace peace restored, or avoiding necessary competitive situations.",
+            "finance": "Financial conflicts resolved, or avoidance of necessary financial confrontation.",
+            "health": "Stress reducing, or avoiding health-related confrontations."
+          }
+        },
+        {
+          "id": "wands-06",
+          "name": "6 of Wands",
+          "number": 6,
+          "keywords": [
+            "victory",
+            "public recognition",
+            "progress",
+            "self-confidence",
+            "success"
+          ],
+          "upright": {
+            "general": "Victory is yours and the world knows it. Public recognition and acclaim for your achievements. Ride this wave of success.",
+            "love": "A confident, successful relationship. Being proud of your partner or vice versa. Public declaration of love.",
+            "career": "Public recognition, promotion, or a notable professional win celebrated by others.",
+            "finance": "Financial success and recognition. Your wise financial decisions are paying off visibly.",
+            "health": "A notable health achievement. Recognition for fitness goals or health transformation."
+          },
+          "reversed": {
+            "general": "Delayed success, private victory without recognition, or ego inflation from success.",
+            "love": "Relationship struggles despite outward appearances, or pride creating distance.",
+            "career": "Recognition delayed or stolen. Arrogance following success.",
+            "finance": "Financial success not materializing as hoped, or mismanaging a financial win.",
+            "health": "Health improvements going unrecognized, or overconfidence leading to setbacks."
+          }
+        },
+        {
+          "id": "wands-07",
+          "name": "7 of Wands",
+          "number": 7,
+          "keywords": [
+            "perseverance",
+            "defensiveness",
+            "maintaining position",
+            "challenge",
+            "competition"
+          ],
+          "upright": {
+            "general": "You are under pressure from many sides — but your position is defensible. Stand your ground with courage and conviction.",
+            "love": "Fighting for a relationship or defending your partnership against outside pressure.",
+            "career": "Defending your position, ideas, or achievements against competition or criticism.",
+            "finance": "Protecting financial gains from threats. Standing firm in financial negotiations.",
+            "health": "Fighting through a health challenge. Maintaining discipline against temptation."
+          },
+          "reversed": {
+            "general": "Giving up, feeling overwhelmed, or being paralyzed by competition.",
+            "love": "Giving up on a relationship under pressure, or exhaustion from relationship conflict.",
+            "career": "Capitulating to workplace pressure, or losing your position.",
+            "finance": "Financial defeat or surrendering financial position.",
+            "health": "Health challenges overwhelming willpower."
+          }
+        },
+        {
+          "id": "wands-08",
+          "name": "8 of Wands",
+          "number": 8,
+          "keywords": [
+            "speed",
+            "movement",
+            "swift action",
+            "air travel",
+            "quick decisions"
+          ],
+          "upright": {
+            "general": "Things are moving fast. Act quickly — opportunities don't wait. Communication flows, travel beckons, and momentum is everything now.",
+            "love": "Whirlwind romance, things moving fast in a relationship, or a long-distance relationship.",
+            "career": "Projects accelerating, fast-moving opportunities, or a surge of communication and activity.",
+            "finance": "Fast financial movements. Act quickly on opportunities. Investments gaining momentum.",
+            "health": "Quick recovery or rapid improvement. Keep up the momentum."
+          },
+          "reversed": {
+            "general": "Delays, miscommunication, or scattered energy. Things that should be moving are stuck.",
+            "love": "Slowing down in a relationship, miscommunication, or delays in romantic progress.",
+            "career": "Projects stalled, communication breakdowns, or missed opportunities.",
+            "finance": "Financial delays or missed fast-moving opportunities.",
+            "health": "Slower than expected recovery. Scattered energy undermining health goals."
+          }
+        },
+        {
+          "id": "wands-09",
+          "name": "9 of Wands",
+          "number": 9,
+          "keywords": [
+            "resilience",
+            "persistence",
+            "boundaries",
+            "last stand",
+            "weariness"
+          ],
+          "upright": {
+            "general": "You are battle-worn but not beaten. Gather your remaining strength — you are closer to victory than you think. Hold the line.",
+            "love": "A relationship tested by challenges. Past wounds making trust difficult. Perseverance needed.",
+            "career": "Near the finish line but exhausted. One final push will bring success. Maintain your boundaries.",
+            "finance": "Financial resilience — you've weathered hardship. The end is near.",
+            "health": "Recovery taking longer than hoped, but resilience is the key. Don't give up."
+          },
+          "reversed": {
+            "general": "Giving up just before success, paranoia, or exhaustion leading to poor decisions.",
+            "love": "Inability to trust again after past wounds, or giving up on a relationship prematurely.",
+            "career": "Burnout causing near-miss failure. Paranoia or stubbornness creating obstacles.",
+            "finance": "Giving up on a financial goal just before breakthrough.",
+            "health": "Health exhaustion or giving up on a recovery plan."
+          }
+        },
+        {
+          "id": "wands-10",
+          "name": "10 of Wands",
+          "number": 10,
+          "keywords": [
+            "burden",
+            "extra responsibility",
+            "hard work",
+            "completion",
+            "overwhelm"
+          ],
+          "upright": {
+            "general": "You are carrying too much. The burden is heavy — but the destination is in sight. Consider what you can put down.",
+            "love": "Relationship feeling like a burden, or one partner carrying the full weight of the relationship.",
+            "career": "Overloaded with work, excessive responsibility, burnout approaching. Delegate or renegotiate.",
+            "finance": "Heavy financial burdens — debt, expenses, or financial responsibilities to others.",
+            "health": "Physical strain from overwork. Your body needs rest. You cannot carry this weight indefinitely."
+          },
+          "reversed": {
+            "general": "Releasing burdens, delegating, or collapsing under the weight. Time to set things down.",
+            "love": "Releasing relationship burdens, or a relationship breaking down under excessive weight.",
+            "career": "Delegating responsibilities, burnout forcing a stop, or a project reaching completion.",
+            "finance": "Debt relief, releasing financial burdens, or financial overload collapsing.",
+            "health": "Burnout forcing necessary rest, or releasing health-related burdens."
+          }
+        },
+        {
+          "id": "wands-page",
+          "name": "Page of Wands",
+          "number": "Page",
+          "keywords": [
+            "enthusiasm",
+            "exploration",
+            "discovery",
+            "free spirit",
+            "new ideas"
+          ],
+          "upright": {
+            "general": "A messenger of creative energy and new ideas arrives. Enthusiasm and curiosity light the way. Explore freely.",
+            "love": "Exciting, playful romantic energy. A new romantic interest or a playful phase in an existing relationship.",
+            "career": "New creative ideas, a youthful energy in the workplace, or exciting project beginnings.",
+            "finance": "New financial ideas with potential. Research before committing.",
+            "health": "Enthusiastic new approach to health. Try something new and fun."
+          },
+          "reversed": {
+            "general": "Scattered energy, lack of direction, or promising ideas not followed through.",
+            "love": "Immature romantic behavior or inconsistency.",
+            "career": "Lack of focus, unfinished creative projects.",
+            "finance": "Impulsive financial ideas without follow-through.",
+            "health": "Starting new health routines without consistency."
+          }
+        },
+        {
+          "id": "wands-knight",
+          "name": "Knight of Wands",
+          "number": "Knight",
+          "keywords": [
+            "action",
+            "adventure",
+            "impulsiveness",
+            "energy",
+            "fearlessness"
+          ],
+          "upright": {
+            "general": "Full speed ahead — this Knight charges into life with passion and little hesitation. Ride the momentum but watch for recklessness.",
+            "love": "A passionate, fast-moving romance. A charming, adventurous partner. Excitement and intensity.",
+            "career": "Taking bold action on projects, travel for work, or energetic entrepreneurial pursuits.",
+            "finance": "Bold but potentially reckless financial moves. Exciting investments with real risk.",
+            "health": "High energy sports and adventures. Watch for accidents from recklessness."
+          },
+          "reversed": {
+            "general": "Recklessness, scattered energy, or aggression. Passion without direction.",
+            "love": "Unreliable or hot-headed romantic partner, or your own impulsive behavior in love.",
+            "career": "Projects abandoned, aggressive workplace behavior, or reckless business decisions.",
+            "finance": "Impulsive financial decisions leading to loss.",
+            "health": "Injury from recklessness or burnout from excessive activity."
+          }
+        },
+        {
+          "id": "wands-queen",
+          "name": "Queen of Wands",
+          "number": "Queen",
+          "keywords": [
+            "courage",
+            "confidence",
+            "independence",
+            "social butterfly",
+            "determination"
+          ],
+          "upright": {
+            "general": "Confident, magnetic, and passionately alive. This Queen knows what she wants and inspires everyone around her.",
+            "love": "A vibrant, confident partner or romantic energy. Passionate, independent love that inspires growth.",
+            "career": "Confident leadership, entrepreneurial success, or inspiring others through your passionate work.",
+            "finance": "Confident financial decisions, inspired by passion not just calculation.",
+            "health": "Vibrant health and physical confidence. Energetic and inspiring wellness practices."
+          },
+          "reversed": {
+            "general": "Jealousy, insecurity, or domineering behavior. The flame burns too hot or has been extinguished.",
+            "love": "Jealousy, controlling behavior, or self-doubt undermining romance.",
+            "career": "Jealousy in the workplace, or confidence collapsing under pressure.",
+            "finance": "Financial decisions driven by insecurity or jealousy.",
+            "health": "Self-confidence issues affecting health habits."
+          }
+        },
+        {
+          "id": "wands-king",
+          "name": "King of Wands",
+          "number": "King",
+          "keywords": [
+            "natural-born leader",
+            "vision",
+            "entrepreneur",
+            "honor",
+            "inspiration"
+          ],
+          "upright": {
+            "general": "Visionary leadership, entrepreneurial mastery, and magnetic authority. This King leads with fire, passion, and integrity.",
+            "love": "A passionate, visionary partner. A relationship with strong leadership and mutual inspiration.",
+            "career": "Entrepreneurial mastery, inspired leadership, or a visionary mentor figure.",
+            "finance": "Bold, visionary financial leadership. Success through inspired, strategic risk-taking.",
+            "health": "Leadership in health — inspiring others and yourself to vibrant, passionate living."
+          },
+          "reversed": {
+            "general": "Impulsiveness, arrogance, or tyrannical behavior. The king's fire burns others.",
+            "love": "Domineering or impulsive romantic behavior, or an aggressive partner.",
+            "career": "Tyrannical leadership, arrogance, or reckless executive decisions.",
+            "finance": "Arrogant financial decisions or impulsive high-risk investments.",
+            "health": "Burnout from trying to lead everything alone, or aggressive health practices."
+          }
+        }
+      ]
+    },
+    "cups": {
+      "suit_theme": "emotions, relationships, intuition, feelings, water energy, the unconscious",
+      "element": "Water",
+      "cards": [
+        {
+          "id": "cups-01",
+          "name": "Ace of Cups",
+          "number": 1,
+          "keywords": [
+            "new love",
+            "compassion",
+            "creativity",
+            "overwhelming emotion",
+            "new beginnings"
+          ],
+          "upright": {
+            "general": "An outpouring of love, emotion, and creative inspiration. Open your heart — a new emotional chapter is beginning.",
+            "love": "New love blooming. Emotional opening, a soulful connection, or the beginning of a meaningful relationship.",
+            "career": "Work infused with creativity and heart. A project that truly matters emotionally.",
+            "finance": "Generosity and emotional abundance. Financial gifts or opportunities arising from heartfelt connections.",
+            "health": "Emotional healing and wellbeing. A new relationship with your inner emotional life."
+          },
+          "reversed": {
+            "general": "Emotional blockage, repression, or an inability to receive love. The cup overflows destructively.",
+            "love": "Blocked emotions, inability to open the heart, or love that cannot be received.",
+            "career": "Lack of passion in work, or creative blocks rooted in emotional issues.",
+            "finance": "Emotional spending or financial blocks rooted in emotional pain.",
+            "health": "Emotional suppression affecting physical health."
+          }
+        },
+        {
+          "id": "cups-02",
+          "name": "2 of Cups",
+          "number": 2,
+          "keywords": [
+            "unified love",
+            "partnership",
+            "mutual attraction",
+            "connection",
+            "balance"
+          ],
+          "upright": {
+            "general": "A beautiful, mutual connection — romantic, professional, or platonic. Two people meeting as equals, full of promise.",
+            "love": "Deep, mutual romantic connection. A relationship of equals, soulmate energy, or a meaningful new partnership.",
+            "career": "A powerful professional partnership or collaboration built on mutual respect.",
+            "finance": "Financial partnership or joint venture built on mutual trust.",
+            "health": "Emotional balance and harmonious relationships supporting physical health."
+          },
+          "reversed": {
+            "general": "Imbalance in a relationship, broken connections, or miscommunication breaking a beautiful bond.",
+            "love": "Relationship imbalance, breakup, or loss of connection.",
+            "career": "Partnership breakdown, miscommunication between collaborators.",
+            "finance": "Financial partnership gone wrong, or imbalanced financial relationship.",
+            "health": "Relationship stress affecting emotional and physical health."
+          }
+        },
+        {
+          "id": "cups-03",
+          "name": "3 of Cups",
+          "number": 3,
+          "keywords": [
+            "celebration",
+            "friendship",
+            "creativity",
+            "community",
+            "joy"
+          ],
+          "upright": {
+            "general": "Celebration with loved ones. Community, friendship, and the joy of shared life milestones. Raise a glass.",
+            "love": "A joyful relationship celebrated by your community. Group celebrations of love. Friendship deepening into romance.",
+            "career": "Team celebration, creative collaboration, or a work community thriving together.",
+            "finance": "Financial celebrations or community financial support.",
+            "health": "Community and friendship supporting mental and physical health. Celebrate health milestones."
+          },
+          "reversed": {
+            "general": "Overindulgence, gossip, or celebration becoming excess. Isolation from community.",
+            "love": "Third-party interference in a relationship, jealousy, or social circle causing problems.",
+            "career": "Workplace gossip, cliques, or overindulgence at team events.",
+            "finance": "Overspending on social occasions.",
+            "health": "Overindulgence in food, drink, or social excess affecting health."
+          }
+        },
+        {
+          "id": "cups-04",
+          "name": "4 of Cups",
+          "number": 4,
+          "keywords": [
+            "contemplation",
+            "apathy",
+            "reevaluation",
+            "discontent",
+            "missed opportunities"
+          ],
+          "upright": {
+            "general": "You are so focused on what you lack that you miss what is being offered. Step out of apathy and open your eyes to the gifts around you.",
+            "love": "Taking a relationship for granted, or emotional withdrawal. A new offer of love going unnoticed.",
+            "career": "Workplace apathy, missing opportunities, or being too discontent to see what's available.",
+            "finance": "Missing financial opportunities due to apathy or dissatisfaction.",
+            "health": "Emotional apathy affecting motivation for self-care."
+          },
+          "reversed": {
+            "general": "Emerging from apathy, renewed motivation, or finally receiving what has been offered.",
+            "love": "Renewed interest in love, or accepting a romantic offer that was previously ignored.",
+            "career": "Re-engaging with work after a period of apathy.",
+            "finance": "Noticing and acting on financial opportunities previously missed.",
+            "health": "Finding motivation for health after a period of apathy."
+          }
+        },
+        {
+          "id": "cups-05",
+          "name": "5 of Cups",
+          "number": 5,
+          "keywords": [
+            "loss",
+            "grief",
+            "regret",
+            "disappointment",
+            "focusing on the negative"
+          ],
+          "upright": {
+            "general": "Grieving a loss — but not all is lost. Turn around and see what remains. Allow grief its space, then move forward.",
+            "love": "Heartbreak, loss of a relationship, or mourning what a relationship could have been.",
+            "career": "Mourning a lost opportunity, project failure, or career setback.",
+            "finance": "Financial loss and the grief around it. Focus on what remains, not only what was lost.",
+            "health": "Grief and loss affecting physical health. Allow emotions to process rather than suppress."
+          },
+          "reversed": {
+            "general": "Moving on from grief, acceptance, or forgiving yourself. Turning toward what remains.",
+            "love": "Healing from heartbreak, moving on, or forgiving a past relationship.",
+            "career": "Learning from failure and moving forward with new perspective.",
+            "finance": "Recovering from financial loss. Beginning to see possibility again.",
+            "health": "Emotional healing supporting physical recovery."
+          }
+        },
+        {
+          "id": "cups-06",
+          "name": "6 of Cups",
+          "number": 6,
+          "keywords": [
+            "nostalgia",
+            "childhood memories",
+            "innocence",
+            "past influences",
+            "reunion"
+          ],
+          "upright": {
+            "general": "A sweet reunion with the past — people, places, or the innocent parts of yourself. Nostalgia brings gifts and lessons.",
+            "love": "Reconnecting with an old flame, or a relationship with a child-like sweetness and innocence.",
+            "career": "Returning to a former employer, reconnecting with old colleagues, or childhood passions informing career.",
+            "finance": "Financial gifts or inheritance, or returning to proven financial methods from the past.",
+            "health": "Healing childhood wounds, or reconnecting with youthful health habits."
+          },
+          "reversed": {
+            "general": "Living too much in the past, nostalgia preventing growth, or old wounds reopened.",
+            "love": "Idealization of past relationships blocking present love.",
+            "career": "Stuck in outdated professional methods, or nostalgia preventing career growth.",
+            "finance": "Financial decisions based on nostalgia rather than current reality.",
+            "health": "Past traumas affecting current health. Time to heal and move forward."
+          }
+        },
+        {
+          "id": "cups-07",
+          "name": "7 of Cups",
+          "number": 7,
+          "keywords": [
+            "choices",
+            "fantasy",
+            "illusion",
+            "wishful thinking",
+            "options"
+          ],
+          "upright": {
+            "general": "Many enticing options appear, but not all are real. You must see through illusion and wishful thinking to make a grounded choice.",
+            "love": "Romantic fantasies, too many options, or a relationship built more on dreams than reality.",
+            "career": "Many career options overwhelming you, or career aspirations disconnected from reality.",
+            "finance": "Financial fantasies and get-rich-quick schemes. Careful discernment needed.",
+            "health": "Wishful thinking about health. Face reality and choose a real path to wellness."
+          },
+          "reversed": {
+            "general": "Clarity emerging from confusion. Illusions dissolving. A clear choice can now be made.",
+            "love": "Clarity about romantic options. Seeing a relationship as it truly is.",
+            "career": "Career direction becoming clear after confusion.",
+            "finance": "Financial clarity replacing wishful thinking.",
+            "health": "Clear-eyed assessment of health replacing denial."
+          }
+        },
+        {
+          "id": "cups-08",
+          "name": "8 of Cups",
+          "number": 8,
+          "keywords": [
+            "walking away",
+            "disappointment",
+            "abandonment",
+            "withdrawal",
+            "escapism"
+          ],
+          "upright": {
+            "general": "Walking away from something that no longer serves your soul. This abandonment is not failure — it is wisdom. Seek deeper meaning.",
+            "love": "Leaving a relationship that no longer nourishes your soul. A courageous but painful emotional departure.",
+            "career": "Leaving a stable but unfulfilling career to seek something more meaningful.",
+            "finance": "Walking away from a financial situation that, while functional, feels empty.",
+            "health": "Abandoning habits or treatments that aren't working. Seeking deeper healing."
+          },
+          "reversed": {
+            "general": "Returning to something you left, or avoiding a necessary departure out of fear.",
+            "love": "Returning to a past relationship, or refusing to leave one that no longer serves you.",
+            "career": "Returning to an old job, or refusing to leave an unfulfilling one.",
+            "finance": "Returning to a financial situation you left, or refusing to let go of draining finances.",
+            "health": "Returning to healing practices, or avoiding necessary change in health approach."
+          }
+        },
+        {
+          "id": "cups-09",
+          "name": "9 of Cups",
+          "number": 9,
+          "keywords": [
+            "contentment",
+            "satisfaction",
+            "gratitude",
+            "emotional fulfillment",
+            "wish fulfillment"
+          ],
+          "upright": {
+            "general": "Your wish is granted. A time of genuine emotional satisfaction, contentment, and gratitude. Enjoy this moment fully.",
+            "love": "Emotional fulfillment in love. A deeply satisfying relationship or romantic wish come true.",
+            "career": "Career satisfaction and success. Your professional wishes are manifesting.",
+            "finance": "Financial wishes coming true. Contentment with material situation.",
+            "health": "Feeling physically and emotionally well. Gratitude for health and vitality."
+          },
+          "reversed": {
+            "general": "Superficial satisfaction, overindulgence, or wishes fulfilled but empty.",
+            "love": "Self-satisfaction at a partner's expense, or love that feels hollow despite outward success.",
+            "career": "Career success without fulfillment, or overindulgence at work.",
+            "finance": "Material satisfaction but inner emptiness. Overindulgence in spending.",
+            "health": "Overindulgence affecting health, or mistaking comfort for wellness."
+          }
+        },
+        {
+          "id": "cups-10",
+          "name": "10 of Cups",
+          "number": 10,
+          "keywords": [
+            "divine love",
+            "blissful relationships",
+            "harmony",
+            "fulfillment",
+            "happy family"
+          ],
+          "upright": {
+            "general": "Complete emotional fulfillment. Love, harmony, and happiness in home and family. The deepest form of human joy.",
+            "love": "The ideal relationship — deep love, emotional harmony, family joy. Happily ever after made real.",
+            "career": "A harmonious, fulfilling work environment that feels like family.",
+            "finance": "Financial harmony and abundance supporting a happy home life.",
+            "health": "Emotional wellbeing and family harmony supporting excellent health."
+          },
+          "reversed": {
+            "general": "Family dysfunction, broken emotional harmony, or an ideal falling short of reality.",
+            "love": "Relationship or family troubles. The dream of perfect love meeting real conflict.",
+            "career": "Workplace or team dysfunction breaking harmony.",
+            "finance": "Financial troubles affecting family harmony.",
+            "health": "Family stress or relationship conflict affecting health."
+          }
+        },
+        {
+          "id": "cups-page",
+          "name": "Page of Cups",
+          "number": "Page",
+          "keywords": [
+            "creative opportunities",
+            "intuitive messages",
+            "curiosity",
+            "romantic",
+            "dreamy"
+          ],
+          "upright": {
+            "general": "An unexpected message or creative idea arrives. Stay open to the unusual and the intuitive. Something sweet is beginning.",
+            "love": "A romantic, dreamy new connection. Unexpected declarations of love or creative romantic gestures.",
+            "career": "Creative inspiration arriving unexpectedly. A new artistic or intuitive direction.",
+            "finance": "Unexpected financial news or creative financial opportunities.",
+            "health": "Intuitive healing messages. Pay attention to dreams and subtle body signals."
+          },
+          "reversed": {
+            "general": "Emotional immaturity, creative blocks, or ignoring intuitive messages.",
+            "love": "Emotional immaturity in romance, or ignoring romantic intuition.",
+            "career": "Creative blocks or emotional immaturity affecting professional relationships.",
+            "finance": "Impulsive financial decisions based on emotion rather than reason.",
+            "health": "Ignoring intuitive health signals."
+          }
+        },
+        {
+          "id": "cups-knight",
+          "name": "Knight of Cups",
+          "number": "Knight",
+          "keywords": [
+            "romance",
+            "charm",
+            "creativity",
+            "following the heart",
+            "idealism"
+          ],
+          "upright": {
+            "general": "A romantic, idealistic approach to life. Follow your heart — but check that beauty isn't deceiving you.",
+            "love": "A charming, romantic partner arrives. Passionate pursuit of love. An idealized, beautiful romance.",
+            "career": "Creative projects pursued with heart and idealism. Artistic endeavors.",
+            "finance": "Following your heart in financial decisions — can be inspired or unrealistic.",
+            "health": "Emotional wellness through creative and romantic pursuits."
+          },
+          "reversed": {
+            "general": "Moodiness, unrealistic idealism, or emotional manipulation.",
+            "love": "A moody, unreliable romantic partner, or your own idealism setting impossible standards.",
+            "career": "Creative projects stalled by emotional instability.",
+            "finance": "Financially unrealistic decisions based on romantic idealism.",
+            "health": "Emotional volatility affecting physical health."
+          }
+        },
+        {
+          "id": "cups-queen",
+          "name": "Queen of Cups",
+          "number": "Queen",
+          "keywords": [
+            "compassion",
+            "calm",
+            "comfort",
+            "intuition",
+            "emotional security"
+          ],
+          "upright": {
+            "general": "Deeply empathic, intuitive, and emotionally secure. This Queen nurtures from a place of genuine feeling and wisdom.",
+            "love": "A compassionate, emotionally attuned partner. A relationship built on deep empathy and intuitive understanding.",
+            "career": "Intuitive leadership, counseling, or creative work that comes from the heart.",
+            "finance": "Intuitive financial decisions rooted in emotional wisdom.",
+            "health": "Emotional healing and deep intuitive self-care."
+          },
+          "reversed": {
+            "general": "Emotional manipulation, over-sensitivity, or martyr complex.",
+            "love": "Emotional dependency, manipulation through vulnerability, or losing yourself in a partner.",
+            "career": "Being taken advantage of emotionally at work, or emotional instability.",
+            "finance": "Emotional financial decisions creating dependency.",
+            "health": "Emotional overwhelm affecting physical health."
+          }
+        },
+        {
+          "id": "cups-king",
+          "name": "King of Cups",
+          "number": "King",
+          "keywords": [
+            "emotional balance",
+            "generosity",
+            "control of emotions",
+            "wisdom",
+            "compassion"
+          ],
+          "upright": {
+            "general": "Emotional mastery with deep compassion. This King governs from the heart without being ruled by it.",
+            "love": "A mature, emotionally intelligent partner. A relationship guided by wisdom and genuine care.",
+            "career": "Leadership with emotional intelligence. Counseling, mentoring, or management with heart.",
+            "finance": "Balanced financial decisions with compassionate generosity.",
+            "health": "Emotional balance supporting excellent health."
+          },
+          "reversed": {
+            "general": "Emotional manipulation, moodiness, or using emotional intelligence for control.",
+            "love": "An emotionally manipulative partner, or suppressing emotions causing relationship harm.",
+            "career": "Emotional manipulation in leadership, or emotional volatility in professional life.",
+            "finance": "Financial decisions colored by emotional manipulation.",
+            "health": "Emotional suppression causing physical symptoms."
+          }
+        }
+      ]
+    },
+    "swords": {
+      "suit_theme": "intellect, conflict, truth, communication, air energy, the mind",
+      "element": "Air",
+      "cards": [
+        {
+          "id": "swords-01",
+          "name": "Ace of Swords",
+          "number": 1,
+          "keywords": [
+            "breakthrough",
+            "clarity",
+            "sharp mind",
+            "truth",
+            "new ideas"
+          ],
+          "upright": {
+            "general": "A breakthrough of clarity and truth. Cut through confusion with the sword of the mind. A new intellectual beginning.",
+            "love": "Honest communication cutting through confusion in a relationship. Truth setting you free.",
+            "career": "A powerful new idea or intellectual breakthrough. Clear communication opening new professional doors.",
+            "finance": "Clarity about financial situation. A new, sharp strategy emerging.",
+            "health": "Mental clarity supporting health decisions. A diagnosis finally giving clarity."
+          },
+          "reversed": {
+            "general": "Confusion, misinformation, or a truth that cuts too deeply. The sword turned inward.",
+            "love": "Miscommunication, dishonesty, or painful truth in a relationship.",
+            "career": "Confusion, misinformation, or poor communication affecting professional life.",
+            "finance": "Financial confusion or misinformation. Get clarity before acting.",
+            "health": "Negative thinking affecting health. Mental clarity needed."
+          }
+        },
+        {
+          "id": "swords-02",
+          "name": "2 of Swords",
+          "number": 2,
+          "keywords": [
+            "indecision",
+            "stalemate",
+            "blocked emotions",
+            "avoidance",
+            "difficult choices"
+          ],
+          "upright": {
+            "general": "A stalemate. You are blocked from making a necessary decision, possibly by avoiding painful information. Remove the blindfold.",
+            "love": "Avoiding a difficult relationship decision. Being blindfolded to the truth of a situation.",
+            "career": "A professional stalemate or difficult decision being avoided.",
+            "finance": "Avoiding a necessary financial decision. The information you need exists — seek it.",
+            "health": "Avoiding health decisions due to fear. Face what needs to be faced."
+          },
+          "reversed": {
+            "general": "A decision finally made, or confusion breaking. Information previously avoided now surfaces.",
+            "love": "Resolution of a relationship impasse, or difficult truth finally addressed.",
+            "career": "Professional stalemate broken, decision finally made.",
+            "finance": "Financial decision made after avoidance, or information finally revealed.",
+            "health": "Health decision made after avoidance. Clarity about diagnosis or treatment."
+          }
+        },
+        {
+          "id": "swords-03",
+          "name": "3 of Swords",
+          "number": 3,
+          "keywords": [
+            "heartbreak",
+            "grief",
+            "sorrow",
+            "painful truth",
+            "separation"
+          ],
+          "upright": {
+            "general": "Pain is real and must be honored. A heartbreak, loss, or painful truth pierces through. Feel it, then allow it to pass.",
+            "love": "Heartbreak, betrayal, or the painful end of a relationship. Grief is the price of love.",
+            "career": "Painful professional news — rejection, failure, or a difficult separation.",
+            "finance": "Financial pain and loss. Allow yourself to grieve before rebuilding.",
+            "health": "Emotional pain with physical manifestation. Heartbreak affecting the body."
+          },
+          "reversed": {
+            "general": "Healing from heartbreak, releasing pain, or letting go of old grief.",
+            "love": "Healing after heartbreak. Moving through grief toward acceptance.",
+            "career": "Recovering from professional disappointment.",
+            "finance": "Financial recovery after painful loss.",
+            "health": "Emotional healing supporting physical recovery."
+          }
+        },
+        {
+          "id": "swords-04",
+          "name": "4 of Swords",
+          "number": 4,
+          "keywords": [
+            "rest",
+            "recovery",
+            "contemplation",
+            "sanctuary",
+            "peace"
+          ],
+          "upright": {
+            "general": "Rest is not weakness — it is necessary. Step back, recover, and gather strength before returning to battle.",
+            "love": "A relationship needing space and rest. Taking time apart to recover and reflect.",
+            "career": "Needed rest from work pressure. Strategic withdrawal before the next advance.",
+            "finance": "Pause financial activity and review. Rest before making new moves.",
+            "health": "Rest and recuperation are essential now. Your body demands it."
+          },
+          "reversed": {
+            "general": "Returning to action after rest, or restlessness preventing necessary recovery.",
+            "love": "Re-engaging with a relationship after space, or inability to rest in a relationship.",
+            "career": "Returning to work after rest, or burnout from refusing to pause.",
+            "finance": "Re-engaging with financial decisions after a pause.",
+            "health": "Returning to active life after recovery, or refusing needed rest."
+          }
+        },
+        {
+          "id": "swords-05",
+          "name": "5 of Swords",
+          "number": 5,
+          "keywords": [
+            "conflict",
+            "defeat",
+            "win at all costs",
+            "betrayal",
+            "hollow victory"
+          ],
+          "upright": {
+            "general": "A hollow victory won through conflict or dishonorable means. Even if you win, ask yourself at what cost.",
+            "love": "Conflict, betrayal, or power games in a relationship. Someone is trying to win at the other's expense.",
+            "career": "Workplace conflict with no true winners. Cutthroat competition or dishonest tactics.",
+            "finance": "Financial conflicts or wins that damage relationships.",
+            "health": "Internal conflict and stress creating health problems."
+          },
+          "reversed": {
+            "general": "Moving beyond conflict, accepting defeat with grace, or choosing peace over victory.",
+            "love": "Resolution of relationship conflict, or choosing love over being right.",
+            "career": "Conflict resolved, or accepting a professional loss and moving on.",
+            "finance": "Financial conflict resolved, perhaps with a compromise.",
+            "health": "Inner peace replacing conflict, supporting health recovery."
+          }
+        },
+        {
+          "id": "swords-06",
+          "name": "6 of Swords",
+          "number": 6,
+          "keywords": [
+            "transition",
+            "change",
+            "rite of passage",
+            "moving on",
+            "travel"
+          ],
+          "upright": {
+            "general": "Moving from turbulent waters to calmer ones. A necessary transition — it may be difficult, but the destination is better.",
+            "love": "Moving on from relationship difficulties toward calmer emotional waters.",
+            "career": "A career transition, moving on to better opportunities, or a necessary professional change.",
+            "finance": "Moving away from financial difficulties toward stability.",
+            "health": "Recovery progressing, moving from illness toward health. A difficult but necessary health transition."
+          },
+          "reversed": {
+            "general": "Resistance to transition, or returning to troubled waters after leaving.",
+            "love": "Returning to a difficult relationship, or refusing to move on.",
+            "career": "Resistance to necessary career transition.",
+            "finance": "Returning to problematic financial patterns after improvement.",
+            "health": "Setback in recovery, or resistance to necessary health transition."
+          }
+        },
+        {
+          "id": "swords-07",
+          "name": "7 of Swords",
+          "number": 7,
+          "keywords": [
+            "betrayal",
+            "deception",
+            "getting away with it",
+            "strategy",
+            "stealth"
+          ],
+          "upright": {
+            "general": "Someone — perhaps you — is operating through deception or strategy rather than honesty. Not everything is as it appears.",
+            "love": "Betrayal, dishonesty, or someone acting behind your back in a relationship.",
+            "career": "Workplace deception, stolen credit, or someone undermining you strategically.",
+            "finance": "Financial fraud, theft, or someone taking advantage of you financially.",
+            "health": "Deception about health — possibly self-deception. Face facts honestly."
+          },
+          "reversed": {
+            "general": "Truth revealed, deception uncovered, or confession of dishonesty.",
+            "love": "Betrayal discovered, or honesty finally entering a relationship.",
+            "career": "Workplace deception exposed, or coming clean about professional dishonesty.",
+            "finance": "Financial fraud discovered or exposed.",
+            "health": "Facing health truths honestly after a period of self-deception."
+          }
+        },
+        {
+          "id": "swords-08",
+          "name": "8 of Swords",
+          "number": 8,
+          "keywords": [
+            "imprisonment",
+            "entrapment",
+            "self-victimization",
+            "restriction",
+            "powerlessness"
+          ],
+          "upright": {
+            "general": "You feel trapped — but the bindings are largely mental. Remove the blindfold of limiting beliefs and see your actual freedom.",
+            "love": "Feeling trapped in a relationship, or mental beliefs keeping you from experiencing love freely.",
+            "career": "Feeling powerless at work — but your options are wider than you believe.",
+            "finance": "Feeling financially trapped. Examine what beliefs are creating the trap.",
+            "health": "Anxiety or mental restriction affecting physical health."
+          },
+          "reversed": {
+            "general": "Liberation from mental restriction. Seeing through limiting beliefs. Freedom is closer than it seemed.",
+            "love": "Breaking free from relationship limitations or negative love beliefs.",
+            "career": "Professional liberation — seeing options that were invisible before.",
+            "finance": "Breaking free from financial limiting beliefs.",
+            "health": "Mental liberation supporting physical healing."
+          }
+        },
+        {
+          "id": "swords-09",
+          "name": "9 of Swords",
+          "number": 9,
+          "keywords": [
+            "anxiety",
+            "nightmares",
+            "hopelessness",
+            "worst fears",
+            "mental anguish"
+          ],
+          "upright": {
+            "general": "Anxiety and dark thoughts at their peak. Your mind creates the monster. Seek support — you are not alone in the dark.",
+            "love": "Anxiety and fear in a relationship. Worst-case relationship thinking creating suffering.",
+            "career": "Work anxiety, imposter syndrome, or professional fears consuming you.",
+            "finance": "Financial anxiety at its worst. Fear-based thinking about money.",
+            "health": "Anxiety and mental health struggles. Insomnia and stress require attention."
+          },
+          "reversed": {
+            "general": "Coming through the darkness, releasing anxiety, or recognizing fears as mental constructs.",
+            "love": "Relationship anxiety easing. Fears confronted and reduced.",
+            "career": "Professional anxiety becoming manageable.",
+            "finance": "Financial fear easing. Finding perspective on money worries.",
+            "health": "Mental health improving. Anxiety and insomnia addressing."
+          }
+        },
+        {
+          "id": "swords-10",
+          "name": "10 of Swords",
+          "number": 10,
+          "keywords": [
+            "painful endings",
+            "deep wounds",
+            "betrayal",
+            "loss",
+            "crisis"
+          ],
+          "upright": {
+            "general": "Rock bottom — but the only way is up. A painful ending clears the way for new dawn. The darkest hour precedes the sunrise.",
+            "love": "A devastating relationship ending. Betrayal bringing finality. The relationship is over.",
+            "career": "A dramatic professional ending — job loss, public failure, or a career low point.",
+            "finance": "Financial crisis or complete loss. Rock bottom as precursor to rebuilding.",
+            "health": "A health crisis or the lowest point of a health struggle. Seek help now."
+          },
+          "reversed": {
+            "general": "Beginning to rise from rock bottom. The worst has passed. Slow recovery begins.",
+            "love": "Beginning to recover from heartbreak. The worst relationship pain is passing.",
+            "career": "Professional recovery beginning after a dramatic low.",
+            "finance": "Financial rebuilding beginning after crisis.",
+            "health": "Beginning recovery from health crisis."
+          }
+        },
+        {
+          "id": "swords-page",
+          "name": "Page of Swords",
+          "number": "Page",
+          "keywords": [
+            "curious",
+            "restless",
+            "communicative",
+            "alert",
+            "analytical"
+          ],
+          "upright": {
+            "general": "A quick, curious mind full of questions. Information arrives swiftly. Think before you act — but act.",
+            "love": "Intellectual connection or rapid communication in romance. A young, curious romantic energy.",
+            "career": "New ideas, quick communication, or an analytical mind approaching a problem freshly.",
+            "finance": "New financial information or ideas requiring analysis.",
+            "health": "A curious approach to health. Research and analysis supporting wellness."
+          },
+          "reversed": {
+            "general": "Gossip, haste, or scattered mental energy. A sharp tongue without wisdom.",
+            "love": "Relationship gossip, hasty communication, or a deceptive romantic interest.",
+            "career": "Workplace gossip, hasty decisions, or a sharp but unwise colleague.",
+            "finance": "Hasty financial decisions based on incomplete information.",
+            "health": "Mental scattered energy affecting health focus."
+          }
+        },
+        {
+          "id": "swords-knight",
+          "name": "Knight of Swords",
+          "number": "Knight",
+          "keywords": [
+            "ambitious",
+            "action-oriented",
+            "driven",
+            "impatient",
+            "direct"
+          ],
+          "upright": {
+            "general": "Charging forward with intellect and will. Fast, decisive, and bold — but check the direction before galloping.",
+            "love": "Direct, fast-moving romantic pursuit. Communication that cuts to the heart of the matter.",
+            "career": "Bold, fast professional action. Intellectual drive bringing rapid results.",
+            "finance": "Fast, decisive financial action. Act quickly but check your reasoning.",
+            "health": "Quick action on health issues. Mental drive supporting physical goals."
+          },
+          "reversed": {
+            "general": "Reckless action, arrogance, or creating damage through haste.",
+            "love": "Aggression, recklessness, or cutting words damaging a relationship.",
+            "career": "Workplace arrogance or decisions that bulldoze without thought.",
+            "finance": "Impulsive financial action causing damage.",
+            "health": "Impatience with recovery causing setbacks."
+          }
+        },
+        {
+          "id": "swords-queen",
+          "name": "Queen of Swords",
+          "number": "Queen",
+          "keywords": [
+            "independent",
+            "unbiased",
+            "clear communication",
+            "direct",
+            "perceptive"
+          ],
+          "upright": {
+            "general": "Clear-eyed, independent, and brilliantly perceptive. She sees through pretense and speaks truth with precision and compassion.",
+            "love": "A relationship of intellectual equals. Honest, direct communication. An independent, perceptive partner.",
+            "career": "Brilliant, independent professional leadership. Communication that cuts through noise.",
+            "finance": "Sharp, unbiased financial analysis. Independent decisions based on clear thinking.",
+            "health": "Clear-eyed assessment of health. Using intellect to navigate health challenges."
+          },
+          "reversed": {
+            "general": "Coldness, cruelty, or using intelligence as a weapon. Bitterness sharpening the tongue.",
+            "love": "Emotional coldness, bitter words, or manipulation through intellect.",
+            "career": "Workplace cruelty or using intelligence to undermine others.",
+            "finance": "Cold financial decisions without considering human impact.",
+            "health": "Mental harshness affecting emotional and physical health."
+          }
+        },
+        {
+          "id": "swords-king",
+          "name": "King of Swords",
+          "number": "King",
+          "keywords": [
+            "clear thinking",
+            "intellectual power",
+            "authority",
+            "truth",
+            "ethics"
+          ],
+          "upright": {
+            "general": "The highest expression of intellectual mastery — clarity, truth, authority, and justice. Command with wisdom and ethics.",
+            "love": "A relationship guided by mutual respect, honesty, and intellectual compatibility.",
+            "career": "Authoritative leadership through sharp thinking and ethical standards.",
+            "finance": "Rational, ethical financial leadership and decision-making.",
+            "health": "Using intellectual clarity to make sound, ethical health decisions."
+          },
+          "reversed": {
+            "general": "Tyranny of the intellect — using thinking as a weapon, manipulation, or abuse of authority.",
+            "love": "Intellectual manipulation, emotional coldness, or authoritarian behavior in a relationship.",
+            "career": "Authoritarian leadership, abuse of power, or unethical use of intelligence.",
+            "finance": "Manipulation or unethical financial authority.",
+            "health": "Intellectual rigidity preventing holistic health approaches."
+          }
+        }
+      ]
+    },
+    "pentacles": {
+      "suit_theme": "material, finances, practicality, work, earth energy, the physical world",
+      "element": "Earth",
+      "cards": [
+        {
+          "id": "pentacles-01",
+          "name": "Ace of Pentacles",
+          "number": 1,
+          "keywords": [
+            "new financial opportunity",
+            "manifestation",
+            "abundance",
+            "security",
+            "prosperity"
+          ],
+          "upright": {
+            "general": "A new material opportunity — a gift of prosperity is being offered. Take it with both hands and plant it wisely.",
+            "love": "A stable, secure new relationship grounded in real-world compatibility.",
+            "career": "A new job offer, business opportunity, or financial venture with real potential.",
+            "finance": "New financial opportunity or windfall. A chance to build real material security.",
+            "health": "New approach to physical wellness showing real, tangible results."
+          },
+          "reversed": {
+            "general": "A missed opportunity, or material opportunity not taken seriously.",
+            "love": "A relationship lacking material security or practical grounding.",
+            "career": "A missed career opportunity, or a promising venture failing to launch.",
+            "finance": "Missed financial opportunity or a promising investment not materializing.",
+            "health": "New health routines not taking root. Lack of follow-through."
+          }
+        },
+        {
+          "id": "pentacles-02",
+          "name": "2 of Pentacles",
+          "number": 2,
+          "keywords": [
+            "balance",
+            "adaptability",
+            "time management",
+            "prioritization",
+            "juggling"
+          ],
+          "upright": {
+            "general": "Juggling multiple priorities with surprising grace. Stay flexible and keep everything in motion.",
+            "love": "Balancing a relationship with other life demands. Keeping romance alive amid busy schedules.",
+            "career": "Managing multiple work responsibilities simultaneously. Adaptability is key.",
+            "finance": "Balancing income and expenses carefully. Managing multiple financial priorities.",
+            "health": "Balancing health needs with busy life. Flexibility in health routines."
+          },
+          "reversed": {
+            "general": "Dropping the balls — overwhelm, poor prioritization, or financial imbalance.",
+            "love": "Relationship neglected due to inability to balance priorities.",
+            "career": "Workplace overwhelm or inability to manage multiple responsibilities.",
+            "finance": "Financial imbalance — spending beyond means or juggling too many obligations.",
+            "health": "Health neglected due to overwhelm."
+          }
+        },
+        {
+          "id": "pentacles-03",
+          "name": "3 of Pentacles",
+          "number": 3,
+          "keywords": [
+            "teamwork",
+            "collaboration",
+            "building",
+            "learning",
+            "implementation"
+          ],
+          "upright": {
+            "general": "Skilled collaboration producing something greater than individuals could alone. Mastery through teamwork.",
+            "love": "Building a relationship together with shared effort and mutual respect for each other's contributions.",
+            "career": "Excellent teamwork, apprenticeship, or skilled collaboration on a meaningful project.",
+            "finance": "Financial success through collaboration or skilled professional services.",
+            "health": "Working with a healthcare team or health community to achieve wellness goals."
+          },
+          "reversed": {
+            "general": "Poor teamwork, lack of collaboration, or learning without application.",
+            "love": "Relationship where partners don't work together effectively as a team.",
+            "career": "Team dysfunction, workplace conflicts preventing skilled collaboration.",
+            "finance": "Financial partnership that isn't working effectively.",
+            "health": "Poor collaboration with healthcare providers."
+          }
+        },
+        {
+          "id": "pentacles-04",
+          "name": "4 of Pentacles",
+          "number": 4,
+          "keywords": [
+            "security",
+            "conservation",
+            "frugality",
+            "stability",
+            "possessiveness"
+          ],
+          "upright": {
+            "general": "Holding tightly to what you have — for security or out of fear. Stability is valuable, but check if you're hoarding out of scarcity.",
+            "love": "Possessiveness or controlling behavior in a relationship. Holding too tightly to a partner.",
+            "career": "Job security prioritized over growth. Conservative approach to career.",
+            "finance": "Financial conservatism or hoarding. Security valued over growth.",
+            "health": "Maintaining health routines conservatively. Resistance to new health approaches."
+          },
+          "reversed": {
+            "general": "Generosity breaking through hoarding, or financial instability from releasing grip too suddenly.",
+            "love": "Releasing possessiveness in a relationship, or financial insecurity affecting love.",
+            "career": "Releasing a secure but stagnant career, or financial instability at work.",
+            "finance": "Releasing financial hoarding — generous giving or financial risk-taking.",
+            "health": "Releasing rigid health routines to try new approaches."
+          }
+        },
+        {
+          "id": "pentacles-05",
+          "name": "5 of Pentacles",
+          "number": 5,
+          "keywords": [
+            "financial loss",
+            "poverty",
+            "lack",
+            "isolation",
+            "worry"
+          ],
+          "upright": {
+            "general": "A time of material hardship, isolation, or lack. Help is available — look up and around you, not just down.",
+            "love": "Feeling left out in the cold in love, or material hardship straining a relationship.",
+            "career": "Job loss, financial hardship, or feeling excluded from workplace prosperity.",
+            "finance": "Financial loss, poverty, or significant financial hardship.",
+            "health": "Poor health due to material deprivation or ignoring health needs due to financial stress."
+          },
+          "reversed": {
+            "general": "Recovery from hardship, receiving help, or finding spiritual resources amid material lack.",
+            "love": "Relationship recovering from material hardship, or receiving love during difficult times.",
+            "career": "Professional recovery after job loss or hardship.",
+            "finance": "Financial recovery beginning. Receiving help or finding resources.",
+            "health": "Health recovering as material situation improves."
+          }
+        },
+        {
+          "id": "pentacles-06",
+          "name": "6 of Pentacles",
+          "number": 6,
+          "keywords": [
+            "generosity",
+            "charity",
+            "giving and receiving",
+            "power dynamics",
+            "prosperity"
+          ],
+          "upright": {
+            "general": "The flow of generosity — giving and receiving in balance. Power dynamics are present; examine them.",
+            "love": "Generosity and care in a relationship, though check if the giving and receiving are balanced.",
+            "career": "Charitable giving, mentorship, or financial generosity in professional context.",
+            "finance": "Generosity in flow — giving to others or receiving support.",
+            "health": "Receiving healing from others or generously supporting others' health."
+          },
+          "reversed": {
+            "general": "Selfish giving, strings attached to generosity, or an imbalanced power dynamic in giving.",
+            "love": "Imbalanced giving in a relationship — one partner gives, the other takes.",
+            "career": "Charity with strings attached, or exploitation in workplace dynamics.",
+            "finance": "Selfish use of wealth, or receiving charity with resentment.",
+            "health": "Conditional healthcare support or exploitation of vulnerability."
+          }
+        },
+        {
+          "id": "pentacles-07",
+          "name": "7 of Pentacles",
+          "number": 7,
+          "keywords": [
+            "assessment",
+            "perseverance",
+            "investment",
+            "sustainable results",
+            "long-term view"
+          ],
+          "upright": {
+            "general": "Pause to assess your progress. You've worked hard — are the results worth the continued investment? Strategic patience.",
+            "love": "Assessing a relationship's long-term potential. Is your investment of love and time being reciprocated?",
+            "career": "Evaluating career progress. Are your efforts yielding appropriate results?",
+            "finance": "Long-term investment assessment. Patience required — but are the returns what you expected?",
+            "health": "Assessing health routine effectiveness. Are your efforts producing the desired results?"
+          },
+          "reversed": {
+            "general": "Impatience, poor investment decisions, or effort not yielding returns.",
+            "love": "Frustration at relationship progress, or effort not being reciprocated.",
+            "career": "Career effort not producing results, or impatience with slow progress.",
+            "finance": "Impatient investment decisions or poor return on financial effort.",
+            "health": "Impatience with health progress or effort not producing expected results."
+          }
+        },
+        {
+          "id": "pentacles-08",
+          "name": "8 of Pentacles",
+          "number": 8,
+          "keywords": [
+            "apprenticeship",
+            "repetition",
+            "mastery",
+            "skill development",
+            "diligence"
+          ],
+          "upright": {
+            "general": "Mastery comes through dedicated practice. You are in the apprentice phase — embrace the repetition, it builds excellence.",
+            "love": "Putting in the daily work to build a lasting relationship. Commitment as craft.",
+            "career": "Skill development, apprenticeship, or dedicated professional mastery.",
+            "finance": "Patient, diligent financial accumulation through skill and hard work.",
+            "health": "Building health through consistent daily practice. Mastery of wellness routines."
+          },
+          "reversed": {
+            "general": "Poor work quality, impatience with mastery, or perfectionism stalling progress.",
+            "love": "Neglecting the daily work required to maintain a relationship.",
+            "career": "Poor craftsmanship, cutting corners, or perfectionism causing paralysis.",
+            "finance": "Poor financial diligence or impatience with slow accumulation.",
+            "health": "Inconsistent health practices or perfectionism preventing progress."
+          }
+        },
+        {
+          "id": "pentacles-09",
+          "name": "9 of Pentacles",
+          "number": 9,
+          "keywords": [
+            "abundance",
+            "luxury",
+            "self-sufficiency",
+            "independence",
+            "financial independence"
+          ],
+          "upright": {
+            "general": "Self-made success and the luxury of independence. You have built this — enjoy it. You don't need anyone's validation.",
+            "love": "A relationship entered from a place of wholeness, not need. Confident, independent love.",
+            "career": "Financial and professional independence achieved. Enjoying the fruits of your labor.",
+            "finance": "Financial abundance and self-sufficiency. A life of material comfort you've earned.",
+            "health": "Excellent health maintained through self-sufficient, well-resourced wellness practices."
+          },
+          "reversed": {
+            "general": "Financial insecurity, dependence, or the illusion of success hiding emptiness.",
+            "love": "Financial insecurity affecting relationship, or a relationship of dependence.",
+            "career": "Success built on unsustainable foundations, or financial dependence in career.",
+            "finance": "Financial independence undermined. Over-spending or losing self-sufficiency.",
+            "health": "Neglecting health despite resources, or health spending without results."
+          }
+        },
+        {
+          "id": "pentacles-10",
+          "name": "10 of Pentacles",
+          "number": 10,
+          "keywords": [
+            "wealth",
+            "financial security",
+            "family legacy",
+            "long-term success",
+            "contribution"
+          ],
+          "upright": {
+            "general": "Generational wealth, lasting legacy, and the deep security of a life well-built. What you create will endure beyond you.",
+            "love": "A relationship of lasting security, commitment, and family. Building a life together that will endure.",
+            "career": "Long-term professional success, a family business, or work leaving a lasting legacy.",
+            "finance": "Generational wealth, financial security, and the achievement of long-term financial goals.",
+            "health": "Excellent long-term health built on strong foundations. Health as a lasting legacy."
+          },
+          "reversed": {
+            "general": "Financial loss threatening legacy, family conflict over resources, or wealth that feels hollow.",
+            "love": "Family conflicts affecting a relationship, or a relationship lacking long-term foundation.",
+            "career": "Loss of business legacy or family business conflict.",
+            "finance": "Threats to long-term financial security or family financial conflict.",
+            "health": "Family health issues or long-term health being compromised by lifestyle."
+          }
+        },
+        {
+          "id": "pentacles-page",
+          "name": "Page of Pentacles",
+          "number": "Page",
+          "keywords": [
+            "manifestation",
+            "financial opportunity",
+            "skill development",
+            "studiousness",
+            "ambition"
+          ],
+          "upright": {
+            "general": "A diligent student of the material world. New opportunities to learn, earn, or create tangible results are beginning.",
+            "love": "A grounded, practical new romantic interest. A relationship building slowly and steadily.",
+            "career": "Starting a new career path with dedication and practical ambition.",
+            "finance": "A new financial learning opportunity. Beginning to understand money in a new way.",
+            "health": "Beginning a new, practical health routine with dedication and patience."
+          },
+          "reversed": {
+            "general": "Lack of follow-through, materialistic without spiritual depth, or poor practical skills.",
+            "love": "A relationship partner focused only on material concerns.",
+            "career": "Lack of diligence, or promising career start not maintained.",
+            "finance": "Poor financial habits or failure to follow through on financial plans.",
+            "health": "Starting health routines without consistency."
+          }
+        },
+        {
+          "id": "pentacles-knight",
+          "name": "Knight of Pentacles",
+          "number": "Knight",
+          "keywords": [
+            "efficiency",
+            "hard work",
+            "routine",
+            "conservatism",
+            "methodical"
+          ],
+          "upright": {
+            "general": "Slow and steady wins the race. This Knight methodically and reliably advances toward his goals. Patience and diligence prevail.",
+            "love": "A reliable, steady, though perhaps unexciting partner. A relationship built on dependability.",
+            "career": "Methodical professional progress. Reliable, efficient work that produces consistent results.",
+            "finance": "Conservative, methodical financial approach producing steady results.",
+            "health": "Consistent, methodical health routines producing steady improvement."
+          },
+          "reversed": {
+            "general": "Boredom, stubbornness, or inefficiency. The knight has stopped moving.",
+            "love": "Relationship stagnation, boredom, or a partner who is too conservative.",
+            "career": "Workplace inefficiency, stagnation, or resistance to change.",
+            "finance": "Financial stagnation or excessive conservative approach blocking growth.",
+            "health": "Health routine becoming dull or ineffective due to lack of adaptation."
+          }
+        },
+        {
+          "id": "pentacles-queen",
+          "name": "Queen of Pentacles",
+          "number": "Queen",
+          "keywords": [
+            "nurturing",
+            "practical",
+            "provider",
+            "down-to-earth",
+            "security"
+          ],
+          "upright": {
+            "general": "A master of abundance and nurturing. She creates warmth, security, and practical comfort for all around her.",
+            "love": "A warm, nurturing, practical partner. A relationship grounded in real-world care and security.",
+            "career": "A nurturing, practical leader who creates material security for their team.",
+            "finance": "Abundant, practical financial wisdom. Money managed with both generosity and prudence.",
+            "health": "Excellent physical nurturing — good food, comfortable environment, practical self-care."
+          },
+          "reversed": {
+            "general": "Financial insecurity, neglecting self-care, or materialism without heart.",
+            "love": "Neglecting partner's emotional needs while focusing on material provision.",
+            "career": "Financial anxiety affecting leadership, or over-focus on material security.",
+            "finance": "Financial instability or neglecting material needs.",
+            "health": "Neglecting physical self-care or material health needs."
+          }
+        },
+        {
+          "id": "pentacles-king",
+          "name": "King of Pentacles",
+          "number": "King",
+          "keywords": [
+            "abundance",
+            "prosperity",
+            "security",
+            "ambition",
+            "reliability"
+          ],
+          "upright": {
+            "general": "The pinnacle of material mastery — wealth, security, and generous abundance built through patience and vision.",
+            "love": "A stable, wealthy, and generous partner. A relationship of complete material and emotional security.",
+            "career": "Entrepreneurial success, financial mastery, or a powerful business leader.",
+            "finance": "Complete financial mastery and abundance. Wealth built through disciplined vision.",
+            "health": "Excellent health maintained through abundant resources and disciplined habits."
+          },
+          "reversed": {
+            "general": "Materialism, stubbornness, or wealth without wisdom. Using money as control.",
+            "love": "Using material wealth to control a relationship, or prioritizing money over love.",
+            "career": "Authoritarian financial leadership, corruption, or materialism undermining success.",
+            "finance": "Financial mismanagement or using wealth for manipulation.",
+            "health": "Excessive focus on physical appearance or neglecting non-material health dimensions."
+          }
+        }
+      ]
+    }
+  }
+}
